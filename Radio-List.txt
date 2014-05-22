@@ -39,7 +39,7 @@ WCAT(AM)|WCAT:
     -  Oldies
 
 WCFR:
-  url:
+  url: http://www.springfieldsvariety.com/
   phone:
   fax:
   city:
@@ -50,7 +50,7 @@ WCFR:
     -  Classic Hits
 
 WCVR(AM)|WCVR:
-  url:
+  url: http://www.realcountry1320.com/
   phone:
   fax:
   city:
@@ -71,10 +71,14 @@ WCVT:
   format:
     -  Classical
 
-WDEV(AM)|WDEV:
-  url:
+WDEV(AM)|WDEV|WDEV-FM:
+  url: http://wdevradio.com/
   phone:
   fax:
+  frequency:
+    - 96.5 mhz
+    - 101.9 mhz
+    - 550 kHz
   city:
     -  Waterbury 
   owner:
@@ -82,21 +86,22 @@ WDEV(AM)|WDEV:
   format:
     -  News Talk Information
 
-WDEV-FM:
+WDOT|WRJT|WNCS:
   url:
+    - http://www.pointfm.com/
   phone:
+    - 802-223-2396
+  address:
+    - Main Studios, 169 River Street, Montpelier VT 05602
   fax:
-  city:
-    -  Warren 
-  owner:
-    -  Radio Vermont, Inc. 
-  format:
-    -  News Talk Information
-
-WDOT:
-  url:
-  phone:
-  fax:
+  comment-form:
+    - http://www.pointfm.com/contact.php
+  facebook:
+    - http://www.facebook.com/pages/The-Point-WNCS-FM/85769010204
+  frequency:
+    - 104.7 MHz
+    - 95.7 MHz
+    - 103.1 MHz
   city:
     -  Danville 
   owner:
@@ -117,8 +122,26 @@ WDVT:
 
 WEQX:
   url:
-  phone:
+    - http://www.weqx.com/
+  facebook:
+    - http://www.facebook.com/WEQX102.7
+  twitter:
+    - @weqx
+  address:
+    - WEQX, PO Box 1027, Manchester, VT 95254
+  studio email:
+    email:
+      - eqx@weqx.com
+  instagram:
+    - weqx_1027
+  request line:
+    phone:
+      - 802.362.1027
+  office line:
+    phone:
+      - 802.362.4800
   fax:
+    - 802.362.5555
   city:
     -  Manchester 
   owner:
@@ -128,6 +151,7 @@ WEQX:
 
 WEVT-LP:
   url:
+    - http://www.wevt.com/
   phone:
   fax:
   city:
@@ -135,7 +159,7 @@ WEVT-LP:
   owner:
     -  Spavin Cure Historical Group 
   format:
-    -  
+    - Oldies 
 
 WEXP(FM)|WEXP:
   url:
@@ -150,6 +174,7 @@ WEXP(FM)|WEXP:
 
 WEZF:
   url:
+    - http://www.star929.com/
   phone:
   fax:
   city:
@@ -159,8 +184,9 @@ WEZF:
   format:
     -  Adult Contemporary
 
-WFAD:
+WFAD|WIFY:
   url:
+    - http://www.cruisin937.com/
   phone:
   fax:
   city:
@@ -170,30 +196,64 @@ WFAD:
   format:
     -  Oldies
 
-WGDH:
-  url:
+WGDH|WGDR:
+  url: http://www.wgdr.org/
   phone:
+    - 802-454-7367
+  air studio:
+    phone:
+      - 802-454-7762
   fax:
+  address:
+    - 123 Pitkin Road Plainfield, VT 05667
   city:
     -  Hardwick 
+  Assistant Operations Manager:
+    Tonio Epstein:
+      phone:
+        - 802-322-1683
+      email:
+        - tonio.epstein@goddard.edu
+  Production Coordinator:
+    Carl Etnier:
+      phone:
+        - 802-322-1687
+      email:
+        -carl.etnier@goddard.edu
+  Operations Manager:
+    David Ferland :
+      phone:
+        - 802-322-1681
+      email:
+        - david.ferland@goddard.edu
+  Director:
+    Kris Gruen:
+      phone:
+        - 802-322-1721
+      email:
+        - kris.gruen@goddard.edu
+  Music Library Coordinator:
+    Josh Hayes-High:
+      phone:
+        - 802-322-1682
+      email:
+        - josh.hayes-high@goddard.edu
+  Communications Coordinator:
+    Leah Xylona:
+      phone:
+        - 802-322-1620
+      email:
+        - leah.xylona@goddard.edu
   owner:
     -  Goddard College Corporation 
   format:
-    -  Variety
-
-WGDR:
-  url:
-  phone:
-  fax:
-  city:
-    -  Plainfield 
-  owner:
-    -  Goddard College Corporation 
-  format:
-    -  Variety
+    - Variety
+  affliation:
+    - Pacifica
 
 WGMT:
   url:
+    - http://www.magic977.com/
   phone:
   fax:
   city:
@@ -202,17 +262,6 @@ WGMT:
     -  Vermont Broadcast Associates, Inc. 
   format:
     -  Adult Contemporary
-
-WIFY:
-  url:
-  phone:
-  fax:
-  city:
-    -  Addison 
-  owner:
-    -  Radio Broadcasting Services, Inc. 
-  format:
-    -  Oldies
 
 WIKE:
   url:
@@ -227,12 +276,20 @@ WIKE:
 
 WIUV:
   url:
+    - http://www.castleton.edu/campus/wiuv/index.htm
+  facebook:
+    - https://www.facebook.com/WIUV91.3FM
+  email:
+    - wiuv@castleton.edu
   phone:
+    - (802) 468-1010
   fax:
   city:
     -  Castleton 
   owner:
     -  Castleton State College|Board of Trustees/Vermont State Colleges 
+  comment:
+    - Student Run
   format:
     -  Variety
 
@@ -370,6 +427,16 @@ WLVB:
 
 WMOO:
   url:
+    - http://www.moo92.com/
+  birthdays:
+    email:
+      - birthdays@moo92.com
+  events:
+    email:
+      - events@moo92.com
+  questions:
+    email:
+      - info@moo92.com
   phone:
   fax:
   city:
@@ -532,17 +599,6 @@ WRFK(FM)|WRFK:
     -  Great Eastern Radio, LLC 
   format:
     -  Classic Hits
-
-WRJT:
-  url:
-  phone:
-  fax:
-  city:
-    -  Royalton 
-  owner:
-    -  Lisbon Communications, Inc. 
-  format:
-    -  Album Adult Alternative
 
 WRMC-FM:
   url:
