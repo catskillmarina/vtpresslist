@@ -1,8 +1,94 @@
+Addison Independent:
+  url:
+    - http://www.addisonindependent.com/
+  email:
+    - news@addisonindependent.com
+  phone:
+  fax:
+  contactform:
+
+Barton Chronicle:
+  url:
+    - http://www.bartonchronicle.com/
+  email:
+  phone:
+  fax:
+  contactform:
+
+Bennington Banner:
+  url:
+    - http://www.benningtonbanner.com/
+  email:
+  phone:
+  fax:
+
+Brattleboro Reformer:
+  url:
+    - http://www.reformer.com/
+  email:
+    - news@reformer.com
+  email:
+  phone:
+  fax:
+
+Burlington Free Press:
+  url:
+    - http://www.burlingtonfreepress.com/
+  email:
+    - thallenbeck@burlingtonfreepress.com
+    - letters@burlingtonfreepress.com
+    - nremsen@burlingtonfreepress.com
+  email:
+  phone:
+  fax:
+
+Caledonian Record:
+  url:
+    - http://www.caledonian-record.com/
+  email:
+  phone:
+  fax:
+
+Deerfield Valley News:
+  url:
+    - http://www.dvalnews.com/
+  email:
+  phone:
+  fax:
+
+Journal Opinion:
+  url:
+    - http://www.jonews.com/
+  email:
+    Owner/Publisher:
+      - publisher@jonews.com
+    Editorial/News Room: 
+      - editor@jonews.com
+    Advertising/Production:
+      - advertising@jonews.com
+  address:
+    - PO Box 378, Bradford, VT 05033
+  phone:
+    - 802-222-5281
+    - 603-747-2907
+  fax:
+    - 802-222-5438
+
+The Commons Online:
+  email:
+    - news@commonsnews.org
+  email:
+  phone:
+  fax:
+
 Vermont Second Republic:
   email:
     - rob.williams@madriver.com
     - publisher@2VR.org
     - editor@2VR.org
+  email:
+  phone:
+  fax:
 
 Vermont 7 Days:
   email:
@@ -28,43 +114,55 @@ Vermont 7 Days:
     - paula@sevendaysvt.com
     - paul@sevendaysvt.com
     - xian@sevendaysvt.com
+  email:
+  phone:
+  fax:
 
 VTDigger.com:
   email:
     - vtdigger@gmail.com
+  email:
+  phone:
+  fax:
 
 Times Argus:
-
-Brattleboro Reformer:
   email:
-    - news@reformer.com
-
-Burlington Free Press:
-  email:
-    - thallenbeck@burlingtonfreepress.com
-    - letters@burlingtonfreepress.com
-    - nremsen@burlingtonfreepress.com
-
-Addison Independent:
-  email:
-    - news@addisonindependent.com
+  phone:
+  fax:
 
 Newport Daily Express:
+  url:
+  email:
+  phone:
+  fax:
+
+Newport Dispatch:
+  url:
+  email:
+  phone:
+  fax:
 
 Saint Albans Messenger:
+  url:
   email:
     - emerson@samessenger.com
+  phone:
+  fax:
+  contactform:
 
 Vermont Standard:
+  url:
   email:
     - letters@thevermontstandard.com
     - editor@thevermontstandard.com
-
-The Commons Online:
-  email:
-    - news@commonsnews.org
+  phone:
+  fax:
+  contactform:
 
 The Rutland Herald:
+  url:
   email:
     - david.moats@rutlandherald.com
     - letters@rutlandherald.com
+  phone:
+  fax:
