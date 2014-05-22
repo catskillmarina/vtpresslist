@@ -61,9 +61,15 @@ Newspapers:
       - http://www.reformer.com/
     email:
       - news@reformer.com
-    email:
-    phone:
-    fax:
+    
+    Executive Editor:
+      Tom D'Errico:
+        email: 
+         - tderrico@reformer.com
+    Senior Reporter:
+      Howard Weiss-Tisman:
+        email:
+         - hwtisman@reformer.com
   
   Burlington Free Press:
     url:
