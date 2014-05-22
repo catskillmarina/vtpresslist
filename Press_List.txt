@@ -169,6 +169,7 @@ Vermont Second Republic:
   phone:
   fax:
 
+# FIX THIS ENTRY - TOO MANY IRRELEVANT EMAILS NOT CATEGORIZED #
 Vermont 7 Days:
   email:
     - alice@sevendaysvt.com
