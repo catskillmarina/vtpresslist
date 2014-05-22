@@ -256,7 +256,16 @@ Newspapers:
         - graphics@newsandcitizen.com
  
   Northfield News & Transcript:
-    url: 
+    url:
+     - http://www.thenorthfieldnews.com/
+    facebook:
+     - /northfieldnewsvermont
+    email:
+     - thenorthfieldnews@gmail.com
+    phone:
+     - 802-485-6397
+    address: 
+     - 7 S. Main Street, Suite D, Northfield, Vermont 05663
 
   Springfield Reporter:
     address:
