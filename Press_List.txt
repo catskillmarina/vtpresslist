@@ -137,10 +137,16 @@ Newspapers:
     url: 
   
   The Commons Online:
+    url:
+      - http://www.commonsnews.org
     email:
       - news@commonsnews.org
     email:
+      - info@commonsnews.org
+    address:
+      - Vermont Independent Media, 139 Main St., #604, Brattleboro, VT 05301
     phone:
+      - 802-246-6397
     fax:
   
   The Valley Reporter:
@@ -195,42 +201,44 @@ Newspapers:
     fax:
       - 603-298-0212
   
+  Vermont Commons: Voices of Independence :
   Vermont Second Republic:
     email:
       - rob.williams@madriver.com
       - publisher@2VR.org
       - editor@2VR.org
     email:
+    address:
+      - PO Box 1121, Waitsfield, Republic of Vermont 05673
     phone:
+      - 802.279.3364
     fax:
   
   # FIX THIS ENTRY - TOO MANY IRRELEVANT EMAILS NOT CATEGORIZED #
   Vermont 7 Days:
-    email:
-      - alice@sevendaysvt.com
-      - andrea@sevendaysvt.com
-      - cathy@sevendaysvt.com
-      - circ@sevendaysvt.com
-      - classes@sevendaysvt.com
-      - colby@sevendaysvt.com
-      - corey@sevendaysvt.com
-      - digital@sevendaysvt.com
-      - don@sevendaysvt.com
-      - ethan@sevendaysvt.com
-      - hackie@sevendaysvt.com
-      - hannah@sevendaysvt.com
-      - katie@sevendaysvt.com
-      - ken@sevendaysvt.com
-      - levine@sevendaysvt.com
-      - margot@sevendaysvt.com
-      - mark@sevendaysvt.com
-      - matthew@sevendaysvt.com
-      - pamela@sevendaysvt.com
-      - paula@sevendaysvt.com
-      - paul@sevendaysvt.com
-      - xian@sevendaysvt.com
-    email:
-    phone:
+    Mailing Address:
+      address:
+        - Seven Days, PO Box 1164, Burlington, VT 05402-1164
+    Physical Address:
+      address:
+        - 255 So. Champlain St, Ste. 5, Burlington, VT 0540
+    publisher:
+      Paula Routly:
+        - paula@sevendaysvt.com
+    politics:
+      Paul Heintz — Fair Game - Vermont politics:
+        - paul@sevendaysvt.com
+      Judith Levine — Poli Psy - politics:
+        - levine@sevendaysvt.com
+    local:
+      Matthew Roy:
+        - matthew@sevendaysvt.com
+    main phone:
+      phone:
+        - 802-864-5684
+    direct dial:
+      phone:
+        802-865-1020 + ext #
     fax:
   
   Newport Daily Express:
