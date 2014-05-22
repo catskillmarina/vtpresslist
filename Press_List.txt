@@ -106,7 +106,9 @@ Newspapers:
       - nremsen@burlingtonfreepress.com
     email:
     phone:
+     - 802-863-3441
     fax:
+     - 802-660-1802
 
   Caledonian Record:
     url:
