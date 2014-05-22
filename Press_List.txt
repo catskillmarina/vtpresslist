@@ -27,6 +27,11 @@ Newspapers:
      - Natalie Hormilla
      email:
       - news@bartonchronicle.com
+    Issues Editor:
+     - Paul Lefebvre
+     email:
+      - paul@bartonchronicle.com
+   
   
   Barton Chronicle:
     url:
