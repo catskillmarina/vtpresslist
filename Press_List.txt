@@ -529,8 +529,6 @@ Newspapers:
     url:
       - http://www.vermontdailynews.com/
 
-  Vermont Guardian:
-  
   Vermont Standard:
     url:
     email:
@@ -539,8 +537,16 @@ Newspapers:
     phone:
     fax:
     contactform:
-
-  The Villager Marketplace:
+    press releases:
+     – editor@thevermontstandard.com
+    managing editor:
+      Tony Marquis:
+        email:
+         - tmarquis@thevermontstandard.com
+    reporter:
+      Katy Savage:
+        email:
+         - ksavage@thevermontstandard.com
 
   VTDigger.com:
     email:
@@ -549,8 +555,7 @@ Newspapers:
     phone:
     fax:
 
-  Windsor County News:
-
+  
 ######################################################################
 #                        End Newspaper Section                       #
 ######################################################################
