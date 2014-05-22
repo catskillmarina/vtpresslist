@@ -14,8 +14,19 @@ Newspapers:
     fax:
      - 802-388-3100
     contactform:
-
-  Barnet News:
+    Managing Editor:
+      - Bethany M. Dunbar:
+      email:
+       - bethany@bartonchronicle.com
+      
+      News Editor:
+       - Tena Starr:
+       email:
+        -   tena@bartonchronicle.com
+    Assistant Editor:
+     - Natalie Hormilla
+     email:
+      - news@bartonchronicle.com
   
   Barton Chronicle:
     url:
