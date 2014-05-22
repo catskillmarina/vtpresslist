@@ -44,9 +44,17 @@ Newspapers:
   Bennington Banner:
     url:
       - http://www.benningtonbanner.com/
-    email:
-    phone:
-    fax:
+    Editor:
+      Michelle Karas:
+         phone:
+           - (802) 447-7567 ext. 110
+         twitter: 
+          - @bannereditor
+    News Desk Editor:
+      Stephanie Ryan:
+        phone:
+         - (802) 447-7567 ext. 114
+
   
   Brattleboro Reformer:
     url:
