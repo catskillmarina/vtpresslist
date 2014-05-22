@@ -1,0 +1,953 @@
+WBTN(AM)|WBTN:
+  url: http://www.wbtnam.org/
+  phone:
+  fax:
+  city:
+    -  Bennington 
+  owner:
+    -  Shires Media Partnership, Inc. 
+  format:
+    -  Variety
+  frequency: 1370 kHz
+
+WBTN-FM:
+  url: http://www.vpr.net/
+  phone:
+  fax:
+  city:
+    -  Bennington 
+  owner:
+    -  Vermont Public Radio 
+  format:
+    -  News Talk Information
+
+WCAT(AM)|WCAT:
+  url: 
+    - http://www.vab.org/
+  email:
+    - vab@vab.org
+  phone:
+    - 802-655-5764 
+  address:
+    -  500A Dalton Drive, Colchester, VT 05446
+  fax:
+  city:
+    -  Burlington 
+  owner:
+    -  Radio Broadcasting Services, Inc. 
+  format:
+    -  Oldies
+
+WCFR:
+  url:
+  phone:
+  fax:
+  city:
+    -  Springfield 
+  owner:
+    -  Koor Communications, Inc. 
+  format:
+    -  Classic Hits
+
+WCVR(AM)|WCVR:
+  url:
+  phone:
+  fax:
+  city:
+    -  Randolph 
+  owner:
+    -  Koor Communications, Inc. 
+  format:
+    -  Country
+
+WCVT:
+  url:
+  phone:
+  fax:
+  city:
+    -  Stowe 
+  owner:
+    -  Radio Vermont Classics, L.L.C. 
+  format:
+    -  Classical
+
+WDEV(AM)|WDEV:
+  url:
+  phone:
+  fax:
+  city:
+    -  Waterbury 
+  owner:
+    -  Radio Vermont, Inc. 
+  format:
+    -  News Talk Information
+
+WDEV-FM:
+  url:
+  phone:
+  fax:
+  city:
+    -  Warren 
+  owner:
+    -  Radio Vermont, Inc. 
+  format:
+    -  News Talk Information
+
+WDOT:
+  url:
+  phone:
+  fax:
+  city:
+    -  Danville 
+  owner:
+    -  Montpelier Broadcasting Inc. 
+  format:
+    -  Album Adult Alternative
+
+WDVT:
+  url:
+  phone:
+  fax:
+  city:
+    -  Rutland 
+  owner:
+    -  Pamal Broadcasting|6 Johnson Road Licenses, Inc. 
+  format:
+    -  Classic Hits
+
+WEQX:
+  url:
+  phone:
+  fax:
+  city:
+    -  Manchester 
+  owner:
+    -  Northshire Communications, Inc. 
+  format:
+    -  Alternative
+
+WEVT-LP:
+  url:
+  phone:
+  fax:
+  city:
+    -  Enosburg Falls 
+  owner:
+    -  Spavin Cure Historical Group 
+  format:
+    -  
+
+WEXP(FM)|WEXP:
+  url:
+  phone:
+  fax:
+  city:
+    -  Brandon 
+  owner:
+    -  Electromagnetic Company, LLC 
+  format:
+    -  Classic Rock
+
+WEZF:
+  url:
+  phone:
+  fax:
+  city:
+    -  Burlington 
+  owner:
+    -  Vox AM/FM, LLC 
+  format:
+    -  Adult Contemporary
+
+WFAD:
+  url:
+  phone:
+  fax:
+  city:
+    -  Middlebury 
+  owner:
+    -  Radio Broadcasting Services, Inc. 
+  format:
+    -  Oldies
+
+WGDH:
+  url:
+  phone:
+  fax:
+  city:
+    -  Hardwick 
+  owner:
+    -  Goddard College Corporation 
+  format:
+    -  Variety
+
+WGDR:
+  url:
+  phone:
+  fax:
+  city:
+    -  Plainfield 
+  owner:
+    -  Goddard College Corporation 
+  format:
+    -  Variety
+
+WGMT:
+  url:
+  phone:
+  fax:
+  city:
+    -  Lyndon 
+  owner:
+    -  Vermont Broadcast Associates, Inc. 
+  format:
+    -  Adult Contemporary
+
+WIFY:
+  url:
+  phone:
+  fax:
+  city:
+    -  Addison 
+  owner:
+    -  Radio Broadcasting Services, Inc. 
+  format:
+    -  Oldies
+
+WIKE:
+  url:
+  phone:
+  fax:
+  city:
+    -  Newport 
+  owner:
+    -  Vermont Broadcast Associates, Inc. 
+  format:
+    -  Country
+
+WIUV:
+  url:
+  phone:
+  fax:
+  city:
+    -  Castleton 
+  owner:
+    -  Castleton State College|Board of Trustees/Vermont State Colleges 
+  format:
+    -  Variety
+
+WIXM:
+  url:
+  phone:
+  fax:
+  city:
+    -  Grand Isle 
+  owner:
+    -  Lake Champlain Broadcasting Inc. 
+  format:
+    -  Adult Contemporary
+
+WIZN:
+  url:
+  phone:
+  fax:
+  city:
+    -  Vergennes 
+  owner:
+    -  Hall Communications, Inc. 
+  format:
+    -  Classic Rock
+
+WJEN:
+  url:
+  phone:
+  fax:
+  city:
+    -  Killington 
+  owner:
+    -  Pamal Broadcasting|6 Johnson Road Licenses, Inc. 
+  format:
+    -  Country
+
+WJJR:
+  url:
+  phone:
+  fax:
+  city:
+    -  Rutland 
+  owner:
+    -  Pamal Broadcasting|6 Johnson Road Licenses, Inc. 
+  format:
+    -  Adult Contemporary
+
+WJOY:
+  url:
+  phone:
+  fax:
+  city:
+    -  Burlington 
+  owner:
+    -  Hall Communications, Inc. 
+  format:
+    -  Adult Standards/MOR
+
+WJSC-FM:
+  url:
+  phone:
+  fax:
+  city:
+    -  Johnson 
+  owner:
+    -  Johnson State College|Board of Trustees/Vermont State College 
+  format:
+    -  Album Oriented Rock
+
+WJSY-LP:
+  url:
+  phone:
+  fax:
+  city:
+    -  Newport 
+  owner:
+    -  Voice in the Kingdom Radio, Inc.<ref>[http://www.wjsy.org Voice in the Kingdom Radio, Inc]</ref> 
+  format:
+    -  
+
+WKKN:
+  url:
+  phone:
+  fax:
+  city:
+    -  Westminster 
+  owner:
+    -  Great Eastern Radio, LLC 
+  format:
+    -  Country
+
+WKVT(AM)|WKVT:
+  url:
+  phone:
+  fax:
+  city:
+    -  Brattleboro 
+  owner:
+    -  Saga Communications of New England, LLC 
+  format:
+    -  News Talk Information
+
+WKVT-FM:
+  url:
+  phone:
+  fax:
+  city:
+    -  Brattleboro 
+  owner:
+    -  Saga Communications of New England, LLC 
+  format:
+    -  Classic Hits
+
+WKXH:
+  url:
+  phone:
+  fax:
+  city:
+    -  St. Johnsbury 
+  owner:
+    -  Vermont Broadcast Associates, Inc. 
+  format:
+    -  New Country
+
+WLVB:
+  url:
+  phone:
+  fax:
+  city:
+    -  Morrisville 
+  owner:
+    -  Radio Vermont, Inc. 
+  format:
+    -  Country
+
+WMOO:
+  url:
+  phone:
+  fax:
+  city:
+    -  Derby Center 
+  owner:
+    -  Vermont Broadcast Associates, Inc. 
+  format:
+    -  Adult Contemporary
+
+WMRW-LP:
+  url:
+  phone:
+  fax:
+  city:
+    -  Warren 
+  owner:
+    -  Roostwork Inc. 
+  format:
+    - 
+
+WMTZ-LP:
+  url:
+  phone:
+  fax:
+  city:
+    -  Rutland 
+  owner:
+    -  Green Mountain Adventist Media, Inc. 
+  format:
+    - 
+
+WMVY(FM)|WMVY:
+  url:
+  phone:
+  fax:
+  city:
+    -  Hartford 
+  owner:
+    -  Electromagnetic Company, LLC 
+  format:
+    -  Silent
+
+WNCH:
+  url:
+  phone:
+  fax:
+  city:
+    -  Norwich 
+  owner:
+    -  Vermont Public Radio 
+  format:
+    -  Classical
+
+WNCS:
+  url:
+  phone:
+  fax:
+  city:
+    -  Montpelier 
+  owner:
+    -  Montpelier Broadcasting, Inc. 
+  format:
+    -  Album Adult Alternative
+
+WNUB-FM:
+  url:
+  phone:
+  fax:
+  city:
+    -  Northfield 
+  owner:
+    - The Trustees of the Norwich University 
+  format:
+    -  Alternative
+
+WOKO:
+  url:
+  phone:
+  fax:
+  city:
+    -  Burlington 
+  owner:
+    -  Hall Communications, Inc. 
+  format:
+    -  Country
+
+WOMM-LP:
+  url:
+  phone:
+  fax:
+  city:
+    -  Burlington 
+  owner:
+    -  Peace and Justice Center 
+  format:
+    -  Community Radio
+
+WOOL(FM)|WOOL:
+  url:
+  phone:
+  fax:
+  city:
+    -  Bellows Falls 
+  owner:
+    -  Great Falls Community Broadcasting Company. 
+  format:
+    -  Variety, Community Radio
+
+WOTX:
+  url:
+  phone:
+  fax:
+  city:
+    -  Lunenberg 
+  owner:
+    -  Alexxon, LLC 
+  format:
+    -  Classic Rock
+
+WOXM:
+  url:
+  phone:
+  fax:
+  city:
+    -  Middlebury 
+  owner:
+    -  Vermont Public Radio 
+  format:
+    -  Classical
+
+WQJQ:
+  url:
+  phone:
+  fax:
+  city:
+    -  Barton, Vermont|Barton 
+  owner:
+    -  Capital Broadcasting Associates, LLC 
+  format:
+    -  Adult Contemporary
+
+WRAN-LP:
+  url:
+  phone:
+  fax:
+  city:
+    -  Randolph 
+  owner:
+    -  Vermont Agency of Transportation 
+  format:
+    - 
+
+WRFK(FM)|WRFK:
+  url:
+  phone:
+  fax:
+  city:
+    -  Barre 
+  owner:
+    -  Great Eastern Radio, LLC 
+  format:
+    -  Classic Hits
+
+WRJT:
+  url:
+  phone:
+  fax:
+  city:
+    -  Royalton 
+  owner:
+    -  Lisbon Communications, Inc. 
+  format:
+    -  Album Adult Alternative
+
+WRMC-FM:
+  url:
+  phone:
+  fax:
+  city:
+    -  Middlebury 
+  owner:
+    -  The President and Fellows of Middlebury College 
+  format:
+    -  Variety
+
+WRSA(AM)|WRSA:
+  url:
+  phone:
+  fax:
+  city:
+    -  St. Albans 
+  owner:
+    -  Radio Broadcasting Services, Inc. 
+  format:
+    -  Oldies
+
+WRSY:
+  url:
+  phone:
+  fax:
+  city:
+    -  Marlboro 
+  owner:
+    -  Saga Communications 
+  format:
+    -  Album Adult Alternative
+
+WRUV:
+  url:
+  phone:
+  fax:
+  city:
+    -  Burlington 
+  owner:
+    -  University of Vermont 
+  format:
+    -  Alternative Rock
+
+WRVT:
+  url:
+  phone:
+  fax:
+  city:
+    -  Rutland 
+  owner:
+    -  Vermont Public Radio 
+  format:
+    -  News Talk Information
+
+WSKI:
+  url:
+  phone:
+  fax:
+  city:
+    -  Montpelier 
+  owner:
+    -  Galloway Communications, Inc. 
+  format:
+    -  All Sports
+
+WSNO:
+  url:
+  phone:
+  fax:
+  city:
+    -  Barre 
+  owner:
+    -  Great Eastern Radio, LLC 
+  format:
+    -  News Talk Information
+
+WSTJ:
+  url:
+  phone:
+  fax:
+  city:
+    -  St. Johnsbury 
+  owner:
+    -  Vermont Broadcast Associates, Inc. 
+  format:
+    -  Adult Standards/MOR
+
+WSYB:
+  url:
+  phone:
+  fax:
+  city:
+    -  Rutland 
+  owner:
+    -  Pamal Broadcasting|6 Johnson Road Licenses, Inc. 
+  format:
+    -  News Talk Information
+
+WTHK:
+  url:
+  phone:
+  fax:
+  city:
+    -  Wilmington 
+  owner:
+    -  Great Eastern Radio, LLC 
+  format:
+    -  Country
+
+WTNN:
+  url:
+  phone:
+  fax:
+  city:
+    -  Bristol 
+  owner:
+    -  Impact Radio, Inc. 
+  format:
+    -  Country
+
+WTSA(AM)|WTSA:
+  url:
+  phone:
+  fax:
+  city:
+    -  Brattleboro 
+  owner:
+    -  Four Seasons Media, Inc. 
+  format:
+    -  Sports
+
+WTSA-FM:
+  url:
+  phone:
+  fax:
+  city:
+    -  Brattleboro 
+  owner:
+    -  Four Seasons Media, Inc. 
+  format:
+    -  Adult Contemporary
+
+WVBA:
+  url:
+  phone:
+  fax:
+  city:
+    -  Brattleboro 
+  owner:
+    -  Vermont Public Radio 
+  format:
+    -  
+
+WVEW-LP:
+  url:
+  phone:
+  fax:
+  city:
+    -  Brattleboro 
+  owner:
+    -  Vermont Earth Works, Inc. 
+  format:
+    -  Community Radio
+
+WVMT:
+  url:
+  phone:
+  fax:
+  city:
+    -  Burlington 
+  owner:
+    -  Sison Broadcasting, Inc. 
+  format:
+    -  News Talk Information
+
+WVNK:
+  url:
+  phone:
+  fax:
+  city:
+    -  Manchester 
+  owner:
+    -  Vermont Public Radio 
+  format:
+    -  
+
+WVNR:
+  url:
+  phone:
+  fax:
+  city:
+    -  Poultney 
+  owner:
+    -  Pine Tree Broadcasting Company 
+  format:
+    -  Adult Contemporary
+
+WVPA:
+  url:
+  phone:
+  fax:
+  city:
+    -  St. Johnsbury 
+  owner:
+    -  Vermont Public Radio 
+  format:
+    -  News Talk Information
+
+WVPR:
+  url:
+  phone:
+  fax:
+  city:
+    -  Windsor 
+  owner:
+    -  Vermont Public Radio
+  format:
+    -  News Talk Information
+
+WVPS:
+  url:
+  phone:
+  fax:
+  city:
+    -  Burlington 
+  owner:
+    -  Vermont Public Radio 
+  format:
+    -  News Talk Information
+
+WVTC:
+  url:
+  phone:
+  fax:
+  city:
+    -  Randolph Center 
+  owner:
+    -  Vermont Technical College|Vermont State Colleges 
+  format:
+    -  Variety
+
+WVTI:
+  url:
+  phone:
+  fax:
+  city:
+    -  Brighton 
+  owner:
+    -  Vermont Public Radio 
+  format:
+    -  Classical
+
+WVTQ:
+  url:
+  phone:
+  fax:
+  city:
+    -  Sunderland 
+  owner:
+    -  Vermont Public Radio 
+  format:
+    -  Classical
+
+WVXM:
+  url:
+  phone:
+  fax:
+  city:
+    -  Middlebury 
+  owner:
+    -  Vermont Public Radio 
+  format:
+    -  Silent
+
+WVXR:
+  url:
+  phone:
+  fax:
+  city:
+    -  Randolph 
+  owner:
+    -  Vermont Public Radio 
+  format:
+    -  Classical
+
+WWFY:
+  url:
+  phone:
+  fax:
+  city:
+    -  Berlin 
+  owner:
+    -  Great Eastern Radio, LLC 
+  format:
+    -  Country
+
+WWLR:
+  url:
+  phone:
+  fax:
+  city:
+    -  Lyndonville 
+  owner:
+    -  Lyndon State College|Board of Trustees, Vermont State Colleges 
+  format:
+    -  Variety
+
+WWMP:
+  url:
+  phone:
+  fax:
+  city:
+    -  Waterbury 
+  owner:
+    -  Radio Broadcasting Services, Inc. 
+  format:
+    -  Adult Hits
+
+WWOD:
+  url:
+  phone:
+  fax:
+  city:
+    -  Woodstock 
+  owner:
+    -  Great Eastern Radio, LLC 
+  format:
+    -  Classic Hits
+
+WWPV-FM:
+  url:
+  phone:
+  fax:
+  city:
+    -  Colchester 
+  owner:
+    -  Saint Michael's College 
+  format:
+    -  Variety
+
+WXLF:
+  url:
+  phone:
+  fax:
+  city:
+    -  White River Junction 
+  owner:
+    -  WBIN Media Co., Inc. 
+  format:
+    -  Country
+
+WXLQ:
+  url:
+  phone:
+  fax:
+  city:
+    -  Bristol 
+  owner:
+    -  St. Lawrence University/North Country Public Radio|NCPR 
+  format:
+    - 
+
+WXXX:
+  url:
+  phone:
+  fax:
+  city:
+    -  South Burlington 
+  owner:
+    -  Sison Broadcasting, Inc. 
+  format:
+    -  Pop Contemporary Hit Radio
+
+WYTC-LP:
+  url:
+  phone:
+  fax:
+  city:
+    -  Hyde Park 
+  owner:
+    -  Union High School District #18 
+  format:
+    -  
+
+WZLF:
+  url:
+  phone:
+  fax:
+  city:
+    -  Bellows Falls 
+  owner:
+    -  WBIN Media Co., Inc. 
+  format:
+    -  Country
+
+WZRT:
+  url:
+  phone:
+  fax:
+  city:
+    -  Rutland 
+  owner:
+    -  Pamal Broadcasting|6 Johnson Road Licenses, Inc. 
+  format:
+    -  Pop Contemporary Hit Radio
+
