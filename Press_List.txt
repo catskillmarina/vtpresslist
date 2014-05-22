@@ -60,6 +60,8 @@ Newspapers:
   Bennington Banner:
     url:
       - http://www.benningtonbanner.com/
+    address:
+     - 425 Main Street, Bennington, VT 05201
     Editor:
       Michelle Karas:
          phone:
@@ -77,7 +79,15 @@ Newspapers:
       - http://www.reformer.com/
     email:
       - news@reformer.com
-    
+    address:
+     -  62 Black Mountain Road, Brattleboro, VT 05301-9242
+    phone:
+     - 802-254-2311
+    facebook:
+     - /BrattleboroReformer
+    twitter:
+     - @BrattReformer
+
     Executive Editor:
       Tom D'Errico:
         email: 
@@ -96,7 +106,9 @@ Newspapers:
       - nremsen@burlingtonfreepress.com
     email:
     phone:
+     - 802-863-3441
     fax:
+     - 802-660-1802
 
   Caledonian Record:
     url:
@@ -105,6 +117,8 @@ Newspapers:
      - 802-748-8121
     fax:
      - 802-748-1613
+    address:
+     - 
 
   The County Courier:
     url:
@@ -115,6 +129,8 @@ Newspapers:
      - 802-933-4375
     fax:
      - 802-933-4907
+    address:
+     - P.O. Box 398, Enosburg Falls, VT 05450
     
     Press Releases:
      - countycourier@gmail.com 
@@ -123,19 +139,25 @@ Newspapers:
   Deerfield Valley News:
     url:
       - http://www.dvalnews.com/
-    Publisher: 	
+    phone:
+     - 802-464-3388
+    fax:
+     - 802-464-7255
+     address:
+     - P.O. Box 310, Route 100, West Dover, VT 05356
+    publisher: 	
       Randy Capitani:
         email:
          - RandyC@vermontmedia.com
-    Editor: 	
+    editor: 	
       Mike Eldred:
         email:
          - MikeE@vermontmedia.com
-    Staff Reporter: 	
+    staff reporter: 	
       Jack Deming:
         email:
          - JackD@vermontmedia.com
-    Press Releases:
+    press releases:
       email:
        - news@vermontmedia.com
     
@@ -194,9 +216,15 @@ Newspapers:
     fax:
       - 802-222-5438
 
-  Lamoille News:
-  
   The Mountain Times:
+    url:
+     - http://www.mountaintimes.info
+    phone:
+     - 802 422-2399
+    fax:
+     - 802-422-2395
+    address:
+      - PO Box 183, Killington, VT 05751
 
   News and Citizen:
     url:
@@ -228,7 +256,16 @@ Newspapers:
         - graphics@newsandcitizen.com
  
   Northfield News & Transcript:
-    url: 
+    url:
+     - http://www.thenorthfieldnews.com/
+    facebook:
+     - /northfieldnewsvermont
+    email:
+     - thenorthfieldnews@gmail.com
+    phone:
+     - 802-485-6397
+    address: 
+     - 7 S. Main Street, Suite D, Northfield, Vermont 05663
 
   Springfield Reporter:
     address:
@@ -257,12 +294,38 @@ Newspapers:
   
   The Valley Reporter:
     url:
-      - http://www.valleyreporter.com/index.php/en/
-  
+      - http://www.valleyreporter.com/
+    email:
+     - news@valleyreporter.com
+    phone:
+     - 802-496-3928
+    address:
+     - The Valley Reporter, P.O. Box 119, Waitsfield, VT 05673
+    publisher:
+      Pat Clark:
+        phone:
+         - 802-496-3928
+        fax:
+         - 802-496-4703
+        email:
+         - pat@valleyreporter.com
+    editor:
+      Lisa Loomis:
+        phone: 
+         - 802-496-3928
+        fax:
+         - 802-496-4703
+        email:
+         - lisa@valleyreporter.com
+
   The World: 
     url:
       - http://www.vt-world.com/
-  
+    phone:
+     - 802-479-2582
+    address:
+     - The World, 403 US Route 302, Barre, VT 05641
+
   Times Argus:
     url:
       - http://www.timesargus.com/
@@ -385,14 +448,6 @@ Newspapers:
       - 219-730-6606
     fax:
 
-  News Sudbury:
-  
-  News Vermont:
-
-  News Windsor:
-
-  Rutland County News:
-
   The Rutland Herald:
     url:
       - http://www.rutlandherald.com/
@@ -407,8 +462,6 @@ Newspapers:
       - P.O. Box 66827 Wales Street, Rutland, VT 05702-0668
     fax:
 
-  Rutland News:
-  
   Saint Albans Messenger:
     url:
       - http://www-messenger.together.com/
@@ -418,8 +471,6 @@ Newspapers:
     fax:
     contactform:
   
-  South Burlington News:
-
   Stowe Reporter:
     url:
       - http://www.stowetoday.com/stowe_reporter/
@@ -455,12 +506,29 @@ Newspapers:
   
   Sunderland News:
 
+  The Other Paper:
+     url:
+     - http://www.otherpapersbvt.com
+     phone:
+     - 802-864-6670
+     fax:
+     - 802-864-3379
+     address:
+     - 1340 Williston Road, South Burlington, VT 05403
+     publisher:
+       Judy Kearns:
+         phone:
+          - 802-864-6670
+         email:
+          - judy@otherpapersbvt.com
+     press releases:
+      - news@otherpapersbvt.com
+ 
+ 
   Vermont Daily News:
     url:
       - http://www.vermontdailynews.com/
 
-  Vermont Guardian:
-  
   Vermont Standard:
     url:
     email:
@@ -469,8 +537,16 @@ Newspapers:
     phone:
     fax:
     contactform:
-
-  The Villager Marketplace:
+    press releases:
+     – editor@thevermontstandard.com
+    managing editor:
+      Tony Marquis:
+        email:
+         - tmarquis@thevermontstandard.com
+    reporter:
+      Katy Savage:
+        email:
+         - ksavage@thevermontstandard.com
 
   VTDigger.com:
     email:
@@ -479,8 +555,7 @@ Newspapers:
     phone:
     fax:
 
-  Windsor County News:
-
+  
 ######################################################################
 #                        End Newspaper Section                       #
 ######################################################################
