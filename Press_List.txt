@@ -60,6 +60,25 @@ Newspapers:
     email:
     phone:
     fax:
+
+  The Essex Reporter:
+    frequency: weekly
+    publish-day: Thursday
+    url:
+      - http://www.essexreporter.com/
+    address: The Essex Reporter, 42 Severance Green, Unit 108, Colchester, VT 05446
+    editor:
+      Elsie Lynn:
+        email: 
+          - news@essexreporter.com
+        phone:
+          - (802) 878-5282 Ext. 202
+     Reporter/ Editorial Page Editor:
+       Jason Starr:
+         email:
+           - jason@essexreporter.com
+         phone: 
+           - (802) 878-5282 Ext.205
   
   Hardwick Gazette:
     url:
@@ -113,7 +132,9 @@ Newspapers:
           - news@newsandcitizen.com
       Production Staff:
         - graphics@newsandcitizen.com
-  
+ 
+  Northfield News & Transcript:
+    url: 
   
   The Commons Online:
     email:
@@ -212,18 +233,32 @@ Newspapers:
     phone:
     fax:
   
-  VTDigger.com:
-    email:
-      - vtdigger@gmail.com
-    email:
-    phone:
-    fax:
-  
   Newport Daily Express:
     url:
+      - http://www.newportvermontdailyexpress.com/
+    address:
+      - 178 Hill Street, Newport, Vermont 05855  United States
     email:
+      -  kwells@newportvermontdailyexpress.com
     phone:
+      - (802) 334-6568 
     fax:
+      - (802) 334-6891
+    publisher:
+      Kenneth Lance Wells:
+        email:
+          - kwells@newportvermontdailyexpress.com
+    staff reporter:
+      Chris Roy:
+        email:
+          - wreporter@newportvermontdailyexpress.com
+      Laura Carpenter:	
+        email:
+          - ereporter@newportvermontdailyexpress.com
+    lifestyle editor:
+      Tracie Ashman:
+        email:
+          - lifestyleeditor@newportvermontdailyexpress.com
   
   Newport Dispatch:
     url:
@@ -287,6 +322,9 @@ Newspapers:
     address:
       - PO Box 489 Stowe, VT 05672
   
+  Vermont Daily News:
+    url:
+      - http://www.vermontdailynews.com/
   
   Vermont Standard:
     url:
@@ -296,6 +334,14 @@ Newspapers:
     phone:
     fax:
     contactform:
+
+
+  VTDigger.com:
+    email:
+      - vtdigger@gmail.com
+    email:
+    phone:
+    fax:
 
 ######################################################################
 #                        End Newspaper Section                       #
