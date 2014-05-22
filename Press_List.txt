@@ -74,6 +74,36 @@ Journal Opinion:
   fax:
     - 802-222-5438
 
+News and Citizen:
+  url:
+    - http://www.newsandcitizen.com/
+  address:
+    - P.O. BOX 369, 417 Brooklyn Street Morrisville, Vermont 05661
+  phone:
+    - 802.888.2212 
+    - 800.734.2114 
+  fax:
+    - 802.888.2173 
+  email: 
+    publisher:
+     Bradley A. Limoge:
+       brad@newsandcitizen.com
+    editor:
+      J.B. McKinley:
+        - edit@newsandcitizen.com
+    reporter:
+      Mickey Smith:
+        - reporter@newsandcitizen.com
+    Sales Team:
+      Irene Nuzzo
+        - irene@newsandcitizen.com
+    Office Manager:
+      Karen Walker:
+        - news@newsandcitizen.com
+    Production Staff:
+      - graphics@newsandcitizen.com
+
+
 The Commons Online:
   email:
     - news@commonsnews.org
