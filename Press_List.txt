@@ -1,284 +1,302 @@
-Addison Independent:
-  url:
-    - http://www.addisonindependent.com/
-  email:
-    - news@addisonindependent.com
-  phone:
-  fax:
-  contactform:
+######################################################################
+#                       Begin Newspaper Section                      #
+######################################################################
 
-Barton Chronicle:
-  url:
-    - http://www.bartonchronicle.com/
-  email:
-  phone:
-  fax:
-  contactform:
-
-Bennington Banner:
-  url:
-    - http://www.benningtonbanner.com/
-  email:
-  phone:
-  fax:
-
-Brattleboro Reformer:
-  url:
-    - http://www.reformer.com/
-  email:
-    - news@reformer.com
-  email:
-  phone:
-  fax:
-
-Burlington Free Press:
-  url:
-    - http://www.burlingtonfreepress.com/
-  email:
-    - thallenbeck@burlingtonfreepress.com
-    - letters@burlingtonfreepress.com
-    - nremsen@burlingtonfreepress.com
-  email:
-  phone:
-  fax:
-
-Caledonian Record:
-  url:
-    - http://www.caledonian-record.com/
-  email:
-  phone:
-  fax:
-
-Deerfield Valley News:
-  url:
-    - http://www.dvalnews.com/
-  email:
-  phone:
-  fax:
-
-Journal Opinion:
-  url:
-    - http://www.jonews.com/
-  email:
-    Owner/Publisher:
-      - publisher@jonews.com
-    Editorial/News Room: 
-      - editor@jonews.com
-    Advertising/Production:
-      - advertising@jonews.com
-  address:
-    - PO Box 378, Bradford, VT 05033
-  phone:
-    - 802-222-5281
-    - 603-747-2907
-  fax:
-    - 802-222-5438
-
-News and Citizen:
-  url:
-    - http://www.newsandcitizen.com/
-  address:
-    - P.O. BOX 369, 417 Brooklyn Street Morrisville, Vermont 05661
-  phone:
-    - 802.888.2212 
-    - 800.734.2114 
-  fax:
-    - 802.888.2173 
-  email: 
-    publisher:
-     Bradley A. Limoge:
-       brad@newsandcitizen.com
-    editor:
-      J.B. McKinley:
-        - edit@newsandcitizen.com
-    reporter:
-      Mickey Smith:
-        - reporter@newsandcitizen.com
-    Sales Team:
-      Irene Nuzzo
-        - irene@newsandcitizen.com
-    Office Manager:
-      Karen Walker:
-        - news@newsandcitizen.com
-    Production Staff:
-      - graphics@newsandcitizen.com
-
-
-The Commons Online:
-  email:
-    - news@commonsnews.org
-  email:
-  phone:
-  fax:
-
-Times Argus:
-  url:
-    - http://www.timesargus.com/
-  email:
-    newsroom:
-      montpelier reporter:
-        Amy Ash Nixon:
-          email:
-            - amy.nixon@timesargus.com
+Newspapers:
+  Addison Independent:
+    url:
+      - http://www.addisonindependent.com/
+    email:
+      - news@addisonindependent.com
+    phone:
+    fax:
+    contactform:
+  
+  Barton Chronicle:
+    url:
+      - http://www.bartonchronicle.com/
+    email:
+    phone:
+    fax:
+    contactform:
+  
+  Bennington Banner:
+    url:
+      - http://www.benningtonbanner.com/
+    email:
+    phone:
+    fax:
+  
+  Brattleboro Reformer:
+    url:
+      - http://www.reformer.com/
+    email:
+      - news@reformer.com
+    email:
+    phone:
+    fax:
+  
+  Burlington Free Press:
+    url:
+      - http://www.burlingtonfreepress.com/
+    email:
+      - thallenbeck@burlingtonfreepress.com
+      - letters@burlingtonfreepress.com
+      - nremsen@burlingtonfreepress.com
+    email:
+    phone:
+    fax:
+  
+  Caledonian Record:
+    url:
+      - http://www.caledonian-record.com/
+    email:
+    phone:
+    fax:
+  
+  Deerfield Valley News:
+    url:
+      - http://www.dvalnews.com/
+    email:
+    phone:
+    fax:
+  
+  Hardwick Gazette:
+    url:
+    email:
+    phone:
+    fax:
+  
+  Journal Opinion:
+    url:
+      - http://www.jonews.com/
+    email:
+      Owner/Publisher:
+        - publisher@jonews.com
+      Editorial/News Room: 
+        - editor@jonews.com
+      Advertising/Production:
+        - advertising@jonews.com
+    address:
+      - PO Box 378, Bradford, VT 05033
+    phone:
+      - 802-222-5281
+      - 603-747-2907
+    fax:
+      - 802-222-5438
+  
+  News and Citizen:
+    url:
+      - http://www.newsandcitizen.com/
+    address:
+      - P.O. BOX 369, 417 Brooklyn Street Morrisville, Vermont 05661
+    phone:
+      - 802.888.2212 
+      - 800.734.2114 
+    fax:
+      - 802.888.2173 
+    email: 
+      publisher:
+       Bradley A. Limoge:
+         brad@newsandcitizen.com
+      editor:
+        J.B. McKinley:
+          - edit@newsandcitizen.com
       reporter:
-        Eric Blaisdell:
-          email:
-            - eric.blaisdell@timesargus.com
-      Vermont Press Bureau Chief:
-        Neal P. Goswami:
-          email:
-            - neal.goswami@timesargus.com
-  phone:
-    - 802-223-3931
-  fax:
-    - 802-479-4096
-  address:
-    mail:
-      - P.O. Box 707, Barre, VT 05641
-    office:
-      - 47 N. Main Street, Barre, VT 05641
-
-Valley News:
-  url:
-    - http://www.vnews.com/
-  address:
-    - News Desk, Valley News, P.O. Box 877 White River Junction, VT 05001 
-  phone:
-    - 603-298-8711
-    - 800-874-2226
-    urgent:
-      news editor:
-        John Gregg:
-          - 603-727-3217
-  email:
-    - newseditor@vnews.com
-  fax:
-    - 603-298-0212
-
-Valley Reporter:
-  url:
-    - http://www.valleyreporter.com/index.php/en/
- 
-
-Vermont Second Republic:
-  email:
-    - rob.williams@madriver.com
-    - publisher@2VR.org
-    - editor@2VR.org
-  email:
-  phone:
-  fax:
-
-# FIX THIS ENTRY - TOO MANY IRRELEVANT EMAILS NOT CATEGORIZED #
-Vermont 7 Days:
-  email:
-    - alice@sevendaysvt.com
-    - andrea@sevendaysvt.com
-    - cathy@sevendaysvt.com
-    - circ@sevendaysvt.com
-    - classes@sevendaysvt.com
-    - colby@sevendaysvt.com
-    - corey@sevendaysvt.com
-    - digital@sevendaysvt.com
-    - don@sevendaysvt.com
-    - ethan@sevendaysvt.com
-    - hackie@sevendaysvt.com
-    - hannah@sevendaysvt.com
-    - katie@sevendaysvt.com
-    - ken@sevendaysvt.com
-    - levine@sevendaysvt.com
-    - margot@sevendaysvt.com
-    - mark@sevendaysvt.com
-    - matthew@sevendaysvt.com
-    - pamela@sevendaysvt.com
-    - paula@sevendaysvt.com
-    - paul@sevendaysvt.com
-    - xian@sevendaysvt.com
-  email:
-  phone:
-  fax:
-
-VTDigger.com:
-  email:
-    - vtdigger@gmail.com
-  email:
-  phone:
-  fax:
-
-Newport Daily Express:
-  url:
-  email:
-  phone:
-  fax:
-
-Newport Dispatch:
-  url:
-  email:
-  phone:
-  fax:
-
-Saint Albans Messenger:
-  url:
-    - http://www-messenger.together.com/
-  email:
-    - emerson@samessenger.com
-  phone:
-  fax:
-  contactform:
-
-Stowe Reporter:
-  url:
-    - http://www.stowetoday.com/stowe_reporter/
-  email:
-    - web@stowereporter.com
-  managing editor:
-    Matt Kanner:
-      phone:
-        - (802) 253-2101 Ext. 11
-      email:
-        - news@stowereporter.com
-        - mkanner@stowereporter.com
-      reporter:
-          Lisa McCormack:
-            phone:
-              - (802) 253-2101 Ext. 12
+        Mickey Smith:
+          - reporter@newsandcitizen.com
+      Sales Team:
+        Irene Nuzzo
+          - irene@newsandcitizen.com
+      Office Manager:
+        Karen Walker:
+          - news@newsandcitizen.com
+      Production Staff:
+        - graphics@newsandcitizen.com
+  
+  
+  The Commons Online:
+    email:
+      - news@commonsnews.org
+    email:
+    phone:
+    fax:
+  
+  The Valley Reporter:
+    url:
+      - http://www.valleyreporter.com/index.php/en/
+  
+  The World: 
+    url:
+      - http://www.vt-world.com/
+  
+  Times Argus:
+    url:
+      - http://www.timesargus.com/
+    email:
+      newsroom:
+        montpelier reporter:
+          Amy Ash Nixon:
             email:
-              - lisa@stowereporter.com
-          Tommy Gardner:
-            phone:
-              - (802) 253-2101 Ext. 27
+              - amy.nixon@timesargus.com
+        reporter:
+          Eric Blaisdell:
             email:
-              - tommy@stowereporter.com
-          Miranda Orso:
-            phone:
-              - (802) 253-2101 Ext. 22
+              - eric.blaisdell@timesargus.com
+        Vermont Press Bureau Chief:
+          Neal P. Goswami:
             email:
-              - miranda@waterburyrecord.com
-  phone:
-    - 802-253-2101
-  address:
-    - PO Box 489 Stowe, VT 05672
+              - neal.goswami@timesargus.com
+    phone:
+      - 802-223-3931
+    fax:
+      - 802-479-4096
+    address:
+      mail:
+        - P.O. Box 707, Barre, VT 05641
+      office:
+        - 47 N. Main Street, Barre, VT 05641
+  
+  Valley News:
+    url:
+      - http://www.vnews.com/
+    address:
+      - News Desk, Valley News, P.O. Box 877 White River Junction, VT 05001 
+    phone:
+      - 603-298-8711
+      - 800-874-2226
+      urgent:
+        news editor:
+          John Gregg:
+            - 603-727-3217
+    email:
+      - newseditor@vnews.com
+    fax:
+      - 603-298-0212
+  
+  Vermont Second Republic:
+    email:
+      - rob.williams@madriver.com
+      - publisher@2VR.org
+      - editor@2VR.org
+    email:
+    phone:
+    fax:
+  
+  # FIX THIS ENTRY - TOO MANY IRRELEVANT EMAILS NOT CATEGORIZED #
+  Vermont 7 Days:
+    email:
+      - alice@sevendaysvt.com
+      - andrea@sevendaysvt.com
+      - cathy@sevendaysvt.com
+      - circ@sevendaysvt.com
+      - classes@sevendaysvt.com
+      - colby@sevendaysvt.com
+      - corey@sevendaysvt.com
+      - digital@sevendaysvt.com
+      - don@sevendaysvt.com
+      - ethan@sevendaysvt.com
+      - hackie@sevendaysvt.com
+      - hannah@sevendaysvt.com
+      - katie@sevendaysvt.com
+      - ken@sevendaysvt.com
+      - levine@sevendaysvt.com
+      - margot@sevendaysvt.com
+      - mark@sevendaysvt.com
+      - matthew@sevendaysvt.com
+      - pamela@sevendaysvt.com
+      - paula@sevendaysvt.com
+      - paul@sevendaysvt.com
+      - xian@sevendaysvt.com
+    email:
+    phone:
+    fax:
+  
+  VTDigger.com:
+    email:
+      - vtdigger@gmail.com
+    email:
+    phone:
+    fax:
+  
+  Newport Daily Express:
+    url:
+    email:
+    phone:
+    fax:
+  
+  Newport Dispatch:
+    url:
+    email:
+    phone:
+    fax:
+  
+  The Rutland Herald:
+    url:
+      - http://www.rutlandherald.com/
+    email:
+      Editorial Page & Letters to the Editor:
+        - david.moats@rutlandherald.com
+        - letters@rutlandherald.com
+    phone:
+      - 800-498-4296
+      - 800-776-5512
+    address:
+      - P.O. Box 66827 Wales Street, Rutland, VT 05702-0668
+    fax:
+  
+  Saint Albans Messenger:
+    url:
+      - http://www-messenger.together.com/
+    email:
+      - emerson@samessenger.com
+    phone:
+    fax:
+    contactform:
+  
+  Stowe Reporter:
+    url:
+      - http://www.stowetoday.com/stowe_reporter/
+    email:
+      - web@stowereporter.com
+    managing editor:
+      Matt Kanner:
+        phone:
+          - (802) 253-2101 Ext. 11
+        email:
+          - news@stowereporter.com
+          - mkanner@stowereporter.com
+        reporter:
+            Lisa McCormack:
+              phone:
+                - (802) 253-2101 Ext. 12
+              email:
+                - lisa@stowereporter.com
+            Tommy Gardner:
+              phone:
+                - (802) 253-2101 Ext. 27
+              email:
+                - tommy@stowereporter.com
+            Miranda Orso:
+              phone:
+                - (802) 253-2101 Ext. 22
+              email:
+                - miranda@waterburyrecord.com
+    phone:
+      - 802-253-2101
+    address:
+      - PO Box 489 Stowe, VT 05672
+  
+  
+  Vermont Standard:
+    url:
+    email:
+      - letters@thevermontstandard.com
+      - editor@thevermontstandard.com
+    phone:
+    fax:
+    contactform:
 
-
-Vermont Standard:
-  url:
-  email:
-    - letters@thevermontstandard.com
-    - editor@thevermontstandard.com
-  phone:
-  fax:
-  contactform:
-
-The Rutland Herald:
-  url:
-    - http://www.rutlandherald.com/
-  email:
-    Editorial Page & Letters to the Editor:
-      - david.moats@rutlandherald.com
-    - letters@rutlandherald.com
-  phone:
-    - 800-498-4296
-    - 800-776-5512
-  address:
-    - P.O. Box 66827 Wales Street, Rutland, VT 05702-0668
-  fax:
+######################################################################
+#                        End Newspaper Section                       #
+######################################################################
