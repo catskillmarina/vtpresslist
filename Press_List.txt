@@ -3,6 +3,9 @@
 ######################################################################
 
 Newspapers:
+
+  Addison County News:
+
   Addison Independent:
     url:
       - http://www.addisonindependent.com/
@@ -11,6 +14,8 @@ Newspapers:
     phone:
     fax:
     contactform:
+
+  Barnet News:
   
   Barton Chronicle:
     url:
@@ -46,6 +51,8 @@ Newspapers:
     email:
     phone:
     fax:
+
+  Caledonia News:
   
   Caledonian Record:
     url:
@@ -53,6 +60,10 @@ Newspapers:
     email:
     phone:
     fax:
+
+  Chittenden News:
+
+  The County Courier:
   
   Deerfield Valley News:
     url:
@@ -80,11 +91,19 @@ Newspapers:
          phone: 
            - (802) 878-5282 Ext.205
   
+  Get Burlington:
+
+  Get Orleans News:
+
+  Halifax-News:
+
   Hardwick Gazette:
     url:
     email:
     phone:
     fax:
+
+  The Herald of Randolph:
   
   Journal Opinion:
     url:
@@ -103,7 +122,11 @@ Newspapers:
       - 603-747-2907
     fax:
       - 802-222-5438
+
+  Lamoille News:
   
+  The Mountain Times:
+
   News and Citizen:
     url:
       - http://www.newsandcitizen.com/
@@ -135,6 +158,18 @@ Newspapers:
  
   Northfield News & Transcript:
     url: 
+
+  Springfield Reporter:
+    address:
+      - Springfield Reporter, 151 Summer St., Springfield, VT 05156-3505
+    phone:
+      - 802-885-2246
+    publisher:
+      Rodney W. Arnold:
+    email:
+      - reporter@vermontel.net 
+    vermont county:
+      - Windsor
   
   The Commons Online:
     url:
@@ -201,7 +236,6 @@ Newspapers:
     fax:
       - 603-298-0212
   
-  Vermont Commons: Voices of Independence :
   Vermont Second Republic:
     email:
       - rob.williams@madriver.com
@@ -212,9 +246,10 @@ Newspapers:
       - PO Box 1121, Waitsfield, Republic of Vermont 05673
     phone:
       - 802.279.3364
+    comment:
+      - Formerly Vermont Commons: Voices of Independence
     fax:
   
-  # FIX THIS ENTRY - TOO MANY IRRELEVANT EMAILS NOT CATEGORIZED #
   Vermont 7 Days:
     Mailing Address:
       address:
@@ -269,11 +304,24 @@ Newspapers:
           - lifestyleeditor@newportvermontdailyexpress.com
   
   Newport Dispatch:
+    address:
+      - Newport Dispatch, PO Box 1146, Derby Line, VT 05830
     url:
+      - http://newportdispatch.com
     email:
+      - editor@newportdispatch.com
     phone:
+      - 219-730-6606
     fax:
+
+  News Sudbury:
   
+  News Vermont:
+
+  News Windsor:
+
+  Rutland County News:
+
   The Rutland Herald:
     url:
       - http://www.rutlandherald.com/
@@ -287,6 +335,8 @@ Newspapers:
     address:
       - P.O. Box 66827 Wales Street, Rutland, VT 05702-0668
     fax:
+
+  Rutland News:
   
   Saint Albans Messenger:
     url:
@@ -297,6 +347,8 @@ Newspapers:
     fax:
     contactform:
   
+  South Burlington News:
+
   Stowe Reporter:
     url:
       - http://www.stowetoday.com/stowe_reporter/
@@ -330,9 +382,13 @@ Newspapers:
     address:
       - PO Box 489 Stowe, VT 05672
   
+  Sunderland News:
+
   Vermont Daily News:
     url:
       - http://www.vermontdailynews.com/
+
+  Vermont Guardian:
   
   Vermont Standard:
     url:
@@ -343,6 +399,7 @@ Newspapers:
     fax:
     contactform:
 
+  The Villager Marketplace:
 
   VTDigger.com:
     email:
@@ -350,6 +407,8 @@ Newspapers:
     email:
     phone:
     fax:
+
+  Windsor County News:
 
 ######################################################################
 #                        End Newspaper Section                       #
