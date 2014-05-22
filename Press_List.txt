@@ -216,9 +216,15 @@ Newspapers:
     fax:
       - 802-222-5438
 
-  Lamoille News:
-  
   The Mountain Times:
+    url:
+     - http://www.mountaintimes.info
+    phone:
+     - 802 422-2399
+    fax:
+     - 802-422-2395
+    address:
+      - PO Box 183, Killington, VT 05751
 
   News and Citizen:
     url:
