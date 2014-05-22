@@ -4,15 +4,15 @@
 
 Newspapers:
 
-  Addison County News:
-
-  Addison Independent:
+   Addison Independent:
     url:
       - http://www.addisonindependent.com/
     email:
       - news@addisonindependent.com
     phone:
+      - 802-388-4944
     fax:
+     - 802-388-3100
     contactform:
 
   Barnet News:
