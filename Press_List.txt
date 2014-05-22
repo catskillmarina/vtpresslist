@@ -111,6 +111,55 @@ The Commons Online:
   phone:
   fax:
 
+Times Argus:
+  url:
+    - http://www.timesargus.com/
+  email:
+    newsroom:
+      montpelier reporter:
+        Amy Ash Nixon:
+          email:
+            - amy.nixon@timesargus.com
+      reporter:
+        Eric Blaisdell:
+          email:
+            - eric.blaisdell@timesargus.com
+      Vermont Press Bureau Chief:
+        Neal P. Goswami:
+          email:
+            - neal.goswami@timesargus.com
+  phone:
+    - 802-223-3931
+  fax:
+    - 802-479-4096
+  address:
+    mail:
+      - P.O. Box 707, Barre, VT 05641
+    office:
+      - 47 N. Main Street, Barre, VT 05641
+
+Valley News:
+  url:
+    - http://www.vnews.com/
+  address:
+    - News Desk, Valley News, P.O. Box 877 White River Junction, VT 05001 
+  phone:
+    - 603-298-8711
+    - 800-874-2226
+    urgent:
+      news editor:
+        John Gregg:
+          - 603-727-3217
+  email:
+    - newseditor@vnews.com
+  fax:
+    - 603-298-0212
+
+Valley Reporter:
+  url:
+    - http://www.valleyreporter.com/index.php/en/
+ 
+
 Vermont Second Republic:
   email:
     - rob.williams@madriver.com
@@ -155,11 +204,6 @@ VTDigger.com:
   phone:
   fax:
 
-Times Argus:
-  email:
-  phone:
-  fax:
-
 Newport Daily Express:
   url:
   email:
@@ -174,11 +218,46 @@ Newport Dispatch:
 
 Saint Albans Messenger:
   url:
+    - http://www-messenger.together.com/
   email:
     - emerson@samessenger.com
   phone:
   fax:
   contactform:
+
+Stowe Reporter:
+  url:
+    - http://www.stowetoday.com/stowe_reporter/
+  email:
+    - web@stowereporter.com
+  managing editor:
+    Matt Kanner:
+      phone:
+        - (802) 253-2101 Ext. 11
+      email:
+        - news@stowereporter.com
+        - mkanner@stowereporter.com
+      reporter:
+          Lisa McCormack:
+            phone:
+              - (802) 253-2101 Ext. 12
+            email:
+              - lisa@stowereporter.com
+          Tommy Gardner:
+            phone:
+              - (802) 253-2101 Ext. 27
+            email:
+              - tommy@stowereporter.com
+          Miranda Orso:
+            phone:
+              - (802) 253-2101 Ext. 22
+            email:
+              - miranda@waterburyrecord.com
+  phone:
+    - 802-253-2101
+  address:
+    - PO Box 489 Stowe, VT 05672
+
 
 Vermont Standard:
   url:
@@ -191,8 +270,14 @@ Vermont Standard:
 
 The Rutland Herald:
   url:
+    - http://www.rutlandherald.com/
   email:
-    - david.moats@rutlandherald.com
+    Editorial Page & Letters to the Editor:
+      - david.moats@rutlandherald.com
     - letters@rutlandherald.com
   phone:
+    - 800-498-4296
+    - 800-776-5512
+  address:
+    - P.O. Box 66827 Wales Street, Rutland, VT 05702-0668
   fax:
