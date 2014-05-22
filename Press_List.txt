@@ -13,7 +13,10 @@ Newspapers:
       - 802-388-4944
     fax:
      - 802-388-3100
-    contactform:
+    address:
+     - Address:
+      - 58 Maple Street, Middlebury, VT 05753
+
     Managing Editor:
       - Bethany M. Dunbar:
       email:
@@ -38,9 +41,22 @@ Newspapers:
       - http://www.bartonchronicle.com/
     email:
     phone:
-    fax:
-    contactform:
-  
+     - 802-525-3531
+    address:
+     - P.O. Box 660., Barton VT 05822
+    managing editor:
+      Bethany M. Dunbar:
+        email:
+         - bethany@bartonchronicle.com
+    news editor:
+      Tena Starr:
+        email:
+         -   tena@bartonchronicle.com
+    assistant editor:
+      Natalie Hormilla:
+        email:
+         - news@bartonchronicle.com
+     
   Bennington Banner:
     url:
       - http://www.benningtonbanner.com/
@@ -61,9 +77,15 @@ Newspapers:
       - http://www.reformer.com/
     email:
       - news@reformer.com
-    email:
-    phone:
-    fax:
+    
+    Executive Editor:
+      Tom D'Errico:
+        email: 
+         - tderrico@reformer.com
+    Senior Reporter:
+      Howard Weiss-Tisman:
+        email:
+         - hwtisman@reformer.com
   
   Burlington Free Press:
     url:
@@ -76,26 +98,47 @@ Newspapers:
     phone:
     fax:
 
-  Caledonia News:
-  
   Caledonian Record:
     url:
       - http://www.caledonian-record.com/
-    email:
     phone:
+     - 802-748-8121
     fax:
-
-  Chittenden News:
+     - 802-748-1613
 
   The County Courier:
+    url:
+     - http://countycourieronline.com
+    email:
+     - couriereditor@gmail.com
+    phone:
+     - 802-933-4375
+    fax:
+     - 802-933-4907
+    
+    Press Releases:
+     - countycourier@gmail.com 
+     
   
   Deerfield Valley News:
     url:
       - http://www.dvalnews.com/
-    email:
-    phone:
-    fax:
-
+    Publisher: 	
+      Randy Capitani:
+        email:
+         - RandyC@vermontmedia.com
+    Editor: 	
+      Mike Eldred:
+        email:
+         - MikeE@vermontmedia.com
+    Staff Reporter: 	
+      Jack Deming:
+        email:
+         - JackD@vermontmedia.com
+    Press Releases:
+      email:
+       - news@vermontmedia.com
+    
   The Essex Reporter:
     frequency: weekly
     publish-day: Thursday
@@ -115,19 +158,23 @@ Newspapers:
          phone: 
            - (802) 878-5282 Ext.205
   
-  Get Burlington:
-
-  Get Orleans News:
-
-  Halifax-News:
-
   Hardwick Gazette:
-    url:
     email:
+     - news@thehardwickgazette.com
     phone:
-    fax:
+     - (802) 472-6521
 
   The Herald of Randolph:
+    url:
+     - http://www.ourherald.com/
+    email:
+     - editor@OurHerald.com
+    phone:
+     - (802)728-3232
+    fax:
+     - (802)728-9275
+    address:
+     - P. O. Box 309, Randolph, VT 05060
   
   Journal Opinion:
     url:
