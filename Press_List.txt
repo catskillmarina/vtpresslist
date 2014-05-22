@@ -142,19 +142,21 @@ Newspapers:
          phone: 
            - (802) 878-5282 Ext.205
   
-  Get Burlington:
-
-  Get Orleans News:
-
-  Halifax-News:
-
   Hardwick Gazette:
-    url:
     email:
+     - news@thehardwickgazette.com
     phone:
-    fax:
+     - (802) 472-6521
 
   The Herald of Randolph:
+    url:
+     - http://www.ourherald.com/
+    email:
+     - editor@OurHerald.com
+    phone:
+     - (802)728-3232
+    fax:
+     - (802)728-9275
   
   Journal Opinion:
     url:
