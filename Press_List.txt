@@ -1,0 +1,70 @@
+Vermont Second Republic:
+  email:
+    - rob.williams@madriver.com
+    - publisher@2VR.org
+    - editor@2VR.org
+
+Vermont 7 Days:
+  email:
+    - alice@sevendaysvt.com
+    - andrea@sevendaysvt.com
+    - cathy@sevendaysvt.com
+    - circ@sevendaysvt.com
+    - classes@sevendaysvt.com
+    - colby@sevendaysvt.com
+    - corey@sevendaysvt.com
+    - digital@sevendaysvt.com
+    - don@sevendaysvt.com
+    - ethan@sevendaysvt.com
+    - hackie@sevendaysvt.com
+    - hannah@sevendaysvt.com
+    - katie@sevendaysvt.com
+    - ken@sevendaysvt.com
+    - levine@sevendaysvt.com
+    - margot@sevendaysvt.com
+    - mark@sevendaysvt.com
+    - matthew@sevendaysvt.com
+    - pamela@sevendaysvt.com
+    - paula@sevendaysvt.com
+    - paul@sevendaysvt.com
+    - xian@sevendaysvt.com
+
+VTDigger.com:
+  email:
+    - vtdigger@gmail.com
+
+Times Argus:
+
+Brattleboro Reformer:
+  email:
+    - news@reformer.com
+
+Burlington Free Press:
+  email:
+    - thallenbeck@burlingtonfreepress.com
+    - letters@burlingtonfreepress.com
+    - nremsen@burlingtonfreepress.com
+
+Addison Independent:
+  email:
+    - news@addisonindependent.com
+
+Newport Daily Express:
+
+Saint Albans Messenger:
+  email:
+    - emerson@samessenger.com
+
+Vermont Standard:
+  email:
+    - letters@thevermontstandard.com
+    - editor@thevermontstandard.com
+
+The Commons Online:
+  email:
+    - news@commonsnews.org
+
+The Rutland Herald:
+  email:
+    - david.moats@rutlandherald.com
+    - letters@rutlandherald.com
