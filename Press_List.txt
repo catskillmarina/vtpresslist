@@ -60,6 +60,8 @@ Newspapers:
   Bennington Banner:
     url:
       - http://www.benningtonbanner.com/
+    address:
+     - 425 Main Street, Bennington, VT 05201
     Editor:
       Michelle Karas:
          phone:
@@ -77,7 +79,15 @@ Newspapers:
       - http://www.reformer.com/
     email:
       - news@reformer.com
-    
+    address:
+     -  62 Black Mountain Road, Brattleboro, VT 05301-9242
+    phone:
+     - 802-254-2311
+    facebook:
+     - /BrattleboroReformer
+    twitter:
+     - @BrattReformer
+
     Executive Editor:
       Tom D'Errico:
         email: 
