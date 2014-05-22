@@ -82,26 +82,47 @@ Newspapers:
     phone:
     fax:
 
-  Caledonia News:
-  
   Caledonian Record:
     url:
       - http://www.caledonian-record.com/
-    email:
     phone:
+     - 802-748-8121
     fax:
-
-  Chittenden News:
+     - 802-748-1613
 
   The County Courier:
+    url:
+     - http://countycourieronline.com
+    email:
+     - couriereditor@gmail.com
+    phone:
+     - 802-933-4375
+    fax:
+     - 802-933-4907
+    
+    Press Releases:
+     - countycourier@gmail.com 
+     
   
   Deerfield Valley News:
     url:
       - http://www.dvalnews.com/
-    email:
-    phone:
-    fax:
-
+    Publisher: 	
+      Randy Capitani:
+        email:
+         - RandyC@vermontmedia.com
+    Editor: 	
+      Mike Eldred:
+        email:
+         - MikeE@vermontmedia.com
+    Staff Reporter: 	
+      Jack Deming:
+        email:
+         - JackD@vermontmedia.com
+    Press Releases:
+      email:
+       - news@vermontmedia.com
+    
   The Essex Reporter:
     frequency: weekly
     publish-day: Thursday
