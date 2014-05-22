@@ -448,14 +448,6 @@ Newspapers:
       - 219-730-6606
     fax:
 
-  News Sudbury:
-  
-  News Vermont:
-
-  News Windsor:
-
-  Rutland County News:
-
   The Rutland Herald:
     url:
       - http://www.rutlandherald.com/
@@ -470,8 +462,6 @@ Newspapers:
       - P.O. Box 66827 Wales Street, Rutland, VT 05702-0668
     fax:
 
-  Rutland News:
-  
   Saint Albans Messenger:
     url:
       - http://www-messenger.together.com/
@@ -481,8 +471,6 @@ Newspapers:
     fax:
     contactform:
   
-  South Burlington News:
-
   Stowe Reporter:
     url:
       - http://www.stowetoday.com/stowe_reporter/
@@ -518,6 +506,25 @@ Newspapers:
   
   Sunderland News:
 
+  The Other Paper:
+     url:
+     - http://www.otherpapersbvt.com
+     phone:
+     - 802-864-6670
+     fax:
+     - 802-864-3379
+     address:
+     - 1340 Williston Road, South Burlington, VT 05403
+     publisher:
+       Judy Kearns:
+         phone:
+          - 802-864-6670
+         email:
+          - judy@otherpapersbvt.com
+     press releases:
+      - news@otherpapersbvt.com
+ 
+ 
   Vermont Daily News:
     url:
       - http://www.vermontdailynews.com/
