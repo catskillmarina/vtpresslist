@@ -13,7 +13,10 @@ Newspapers:
       - 802-388-4944
     fax:
      - 802-388-3100
-    contactform:
+    address:
+     - Address:
+      - 58 Maple Street, Middlebury, VT 05753
+
     Managing Editor:
       - Bethany M. Dunbar:
       email:
@@ -38,9 +41,22 @@ Newspapers:
       - http://www.bartonchronicle.com/
     email:
     phone:
-    fax:
-    contactform:
-  
+     - 802-525-3531
+    address:
+     - P.O. Box 660., Barton VT 05822
+    managing editor:
+      Bethany M. Dunbar:
+        email:
+         - bethany@bartonchronicle.com
+    news editor:
+      Tena Starr:
+        email:
+         -   tena@bartonchronicle.com
+    assistant editor:
+      Natalie Hormilla:
+        email:
+         - news@bartonchronicle.com
+     
   Bennington Banner:
     url:
       - http://www.benningtonbanner.com/
@@ -157,6 +173,8 @@ Newspapers:
      - (802)728-3232
     fax:
      - (802)728-9275
+    address:
+     - P. O. Box 309, Randolph, VT 05060
   
   Journal Opinion:
     url:
