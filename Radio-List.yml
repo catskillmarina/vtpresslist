@@ -4,21 +4,43 @@
 #################################################################
 
 radio:
-  WBTN(AM)|WBTN:
-    url: http://www.wbtnam.org/
+  "Free Vermont Radio":
+    url:
+      - ""http://freevermontradio.org/""
+    "contact-form":
+      - ""http://freevermontradio.org/contact""
+    "Dennis Steele":
+      email:
+        - radiofreevermont@gmail.com
+      phone:
+        - 802-473-1725
+    address:
+      - Free Vermont Radio
+        P.O. Box 28
+        E. St. Johnsbury, VT 05838
+    format:
+      - Internet Radio
+    comment:
+      - Associated with Vermont Second Republic
+      - Promising for LUP/VTL
+
+  "WBTN(AM)|WBTN":
+    url:
+      - ""http://www.wbtnam.org/""
     phone:
     fax:
     city:
       - Bennington 
     owner:
-      - Shires Media Partnership, Inc. 
+      - "Shires Media Partnership, Inc."
     format:
       - Variety
-    frequency: 1370 kHz
+    frequency:
+      - 1370 kHz
   
-  WOXM|WNCH|WRVT|WVBA|WVNK|WVPA|WVPR|WVPS|WVTI|WVTQ|WVXM|WVXR|WBTN-FM:
+  "WOXM|WNCH|WRVT|WVBA|WVNK|WVPA|WVPR|WVPS|WVTI|WVTQ|WVXM|WVXR|WBTN-FM":
     url:
-      - http://www.vpr.net/
+      - ""http://www.vpr.net/""
     phone:
     fax:
     city:
@@ -27,11 +49,11 @@ radio:
     owner:
       - Vermont Public Radio 
     format:
-      - News Talk Information
-  
-  WCAT(AM)|WCAT:
+      - News Talk Information  
+
+  WCAT_AM_WCAT:
     url: 
-      - http://www.vab.org/
+      - ""http://www.vab.org/""
     email:
       - vab@vab.org
     phone:
@@ -47,7 +69,8 @@ radio:
       - Oldies
   
   WCFR:
-    url: http://www.springfieldsvariety.com/
+    url: 
+      - ""http://www.springfieldsvariety.com/""
     phone:
     fax:
     city:
@@ -57,8 +80,9 @@ radio:
     format:
       - Classic Hits
   
-  WCVR(AM)|WCVR:
-    url: http://www.realcountry1320.com/
+  WCVR:
+    url:
+      - ""http://www.realcountry1320.com/""
     phone:
     fax:
     city:
@@ -68,7 +92,7 @@ radio:
     format:
       - Country
   
-  WCVT:
+  "WCVT":
     url:
     phone:
     fax:
@@ -79,8 +103,9 @@ radio:
     format:
       - Classical
   
-  WDEV(AM)|WDEV|WDEV-FM:
-    url: http://wdevradio.com/
+  "WDEV(AM)|WDEV|WDEV-FM":
+    url:
+      - ""http://wdevradio.com/""
     phone:
     fax:
     frequency:
@@ -94,18 +119,19 @@ radio:
     format:
       - News Talk Information
   
-  WDOT|WRJT|WNCS:
+  "WDOT|WRJT|WNCS":
     url:
-      - http://www.pointfm.com/
+      - ""http://www.pointfm.com/""
     phone:
       - 802-223-2396
     address:
       - Main Studios, 169 River Street, Montpelier VT 05602
     fax:
-    comment-form:
-      - http://www.pointfm.com/contact.php
-    facebook:
-      - http://www.facebook.com/pages/The-Point-WNCS-FM/85769010204
+    "comment-form":
+      - ""http://www.pointfm.com/contact.php""
+    social:
+      facebook:
+        - ""http://www.facebook.com/pages/The-Point-WNCS-FM/85769010204""
     frequency:
       - 104.7 MHz
       - 95.7 MHz
@@ -130,22 +156,23 @@ radio:
   
   WEQX:
     url:
-      - http://www.weqx.com/
-    facebook:
-      - http://www.facebook.com/WEQX102.7
-    twitter:
-      - @weqx
+      - ""http://www.weqx.com/""
+    social: 
+      facebook:
+        - ""https://www.facebook.com/WEQX102.7""
+      twitter:
+        - @weqx
+      instagram:
+        - weqx_1027
     address:
       - WEQX, PO Box 1027, Manchester, VT 95254
-    studio email:
+    "studio email":
       email:
         - eqx@weqx.com
-    instagram:
-      - weqx_1027
-    request line:
+    "request line":
       phone:
-        - 802.362.1027
-    office line:
+        - "802.362.1027"
+    "office line":
       phone:
         - 802.362.4800
     fax:
@@ -157,9 +184,9 @@ radio:
     format:
       - Alternative
   
-  WEVT-LP:
+  "WEVT-LP":
     url:
-      - http://www.wevt.com/
+      - ""http://www.wevt.com/""
     phone:
     fax:
     city:
@@ -169,7 +196,7 @@ radio:
     format:
       - Oldies 
   
-  WEXP(FM)|WEXP:
+  "WEXP(FM)|WEXP":
     url:
     phone:
     fax:
@@ -180,9 +207,9 @@ radio:
     format:
       - Classic Rock
   
-  WEZF:
+  "WEZF":
     url:
-      - http://www.star929.com/
+      - ""http://www.star929.com/""
     phone:
     fax:
     city:
@@ -192,9 +219,9 @@ radio:
     format:
       - Adult Contemporary
   
-  WFAD|WIFY|WRSY:
+  "WFAD|WIFY|WRSY":
     url:
-      - http://www.cruisin937.com/
+      - ""http://www.cruisin937.com/""
     phone:
     fax:
     city:
@@ -204,8 +231,9 @@ radio:
     format:
       - Oldies
   
-  WGDH|WGDR:
-    url: http://www.wgdr.org/
+  WGDH_WGDR:
+    url: 
+      - ""http://www.wgdr.org/""
     phone:
       - 802-454-7367
     air studio:
@@ -216,38 +244,38 @@ radio:
       - 123 Pitkin Road Plainfield, VT 05667
     city:
       - Hardwick 
-    Assistant Operations Manager:
-      Tonio Epstein:
+    "Assistant Operations Manager":
+      "Tonio Epstein":
         phone:
           - 802-322-1683
         email:
           - tonio.epstein@goddard.edu
-    Production Coordinator:
-      Carl Etnier:
+    "Production Coordinator":
+      "Carl Etnier":
         phone:
           - 802-322-1687
         email:
-          -carl.etnier@goddard.edu
-    Operations Manager:
-      David Ferland :
+          - carl.etnier@goddard.edu
+    "Operations Manager":
+      "David Ferland":
         phone:
           - 802-322-1681
         email:
           - david.ferland@goddard.edu
     Director:
-      Kris Gruen:
+      "Kris Gruen":
         phone:
           - 802-322-1721
         email:
           - kris.gruen@goddard.edu
-    Music Library Coordinator:
-      Josh Hayes-High:
+    "Music Library Coordinator":
+      ""Josh Hayes-High"":
         phone:
           - 802-322-1682
         email:
           - josh.hayes-high@goddard.edu
-    Communications Coordinator:
-      Leah Xylona:
+    "Communications Coordinator":
+      "Leah Xylona":
         phone:
           - 802-322-1620
         email:
@@ -258,6 +286,9 @@ radio:
       - Variety
     affliation:
       - Pacifica
+    comment:
+      - College Radio
+      - Promising for LUP or VTL
   
   WIKE:
     url:
@@ -272,9 +303,9 @@ radio:
   
   WIUV:
     url:
-      - http://www.castleton.edu/campus/wiuv/index.htm
+      - ""http://www.castleton.edu/campus/wiuv/index.htm""
     facebook:
-      - https://www.facebook.com/WIUV91.3FM
+      - ""https://www.facebook.com/WIUV91.3FM""
     email:
       - wiuv@castleton.edu
     phone:
@@ -282,15 +313,15 @@ radio:
     fax:
     city:
       - Castleton 
-    General Manager:
-      Jaren Carpenter:
+    "General Manager":
+      "Jaren Carpenter":
         - jaren.carpenter@castleton.edu
-    Program Director:
-      Matt Trombley:
+    "Program Director":
+      "Matt Trombley":
         email:
           - mat02190@castleton.edu
-    Promotions Director:
-      Amanda LeCroix:
+    "Promotions Director":
+      "Amanda LeCroix":
         email:
           - all09131@castleton.edu
     owner:
@@ -313,7 +344,7 @@ radio:
   
   WIZN:
     url:
-      - http://www.wizn.com/
+      - ""http://www.wizn.com/""
     phone:
     fax:
     city:
@@ -325,7 +356,7 @@ radio:
   
   WJEN:
     url:
-      - http://www.catcountryvermont.com/
+      - ""http://www.catcountryvermont.com/""
     phone:
     fax:
     city:
@@ -337,7 +368,7 @@ radio:
   
   WJJR:
     url:
-      - http://www.wjjr.net/
+      - ""http://www.wjjr.net/""
     phone:
     fax:
     city:
@@ -349,7 +380,7 @@ radio:
   
   WJOY:
     url:
-      - http://www.wjoy.com/
+      - ""http://www.wjoy.com/""
     phone:
     fax:
     city:
@@ -361,7 +392,7 @@ radio:
   
   WJSC-FM:
     url:
-      - http://www.jsc.edu/StudentLife/WJSCFM/default.aspx
+      - ""http://www.jsc.edu/StudentLife/WJSCFM/default.aspx""
     phone:
     fax:
     city:
@@ -373,7 +404,7 @@ radio:
   
   WJSY-LP:
     url:
-      - http://www.wjsy.org 
+      - ""http://www.wjsy.org ""
     phone:
     fax:
     city:
@@ -394,7 +425,7 @@ radio:
     format:
       - Country
   
-  WKVT(AM)|WKVT:
+  "WKVT(AM)|WKVT":
     url:
     phone:
     fax:
@@ -404,17 +435,6 @@ radio:
       - Saga Communications of New England, LLC 
     format:
       - News Talk Information
-  
-  WKVT-FM:
-    url:
-    phone:
-    fax:
-    city:
-      - Brattleboro 
-    owner:
-      - Saga Communications of New England, LLC 
-    format:
-      - Classic Hits
   
   WKXH:
     url:
@@ -440,7 +460,7 @@ radio:
   
   WMOO:
     url:
-      - http://www.moo92.com/
+      - ""http://www.moo92.com/""
     birthdays:
       email:
         - birthdays@moo92.com
@@ -459,11 +479,11 @@ radio:
     format:
       - Adult Contemporary
   
-  WMRW-LP:
+  "WMRW-LP":
     url:
-      - http://www.wmrw.org/
+      - ""http://www.wmrw.org/""
     contact-form:
-      - http://www.wmrw.org/index.php/contact-us
+      - ""http://www.wmrw.org/index.php/contact-us""
     phone:
     fax:
     city:
@@ -476,7 +496,7 @@ radio:
       - Community Run by Volunteers
       - good prospect for LUP and VTL
   
-  WMVY(FM)|WMVY:
+  "WMVY(FM)|WMVY":
     url:
     phone:
     fax:
@@ -498,9 +518,9 @@ radio:
     format:
       - Album Adult Alternative
   
-  WNUB-FM:
+  "WNUB-FM":
     url:
-      - http://libarts.norwich.edu/english-communications/publish-broadcast-perform/wnub/
+      - ""http://libarts.norwich.edu/english-communications/publish-broadcast-perform/wnub/""
     phone:
     fax:
     city:
@@ -515,7 +535,7 @@ radio:
   
   WOKO:
     url:
-      - http://www.woko.com/
+      - ""http://www.woko.com/""
     phone:
     fax:
     city:
@@ -525,16 +545,16 @@ radio:
     format:
       - Country
   
-  WOMM-LP:
+  "WOMM-LP":
     url:
-      - http://www.theradiator.org/
+      - ""http://www.theradiator.org/""
     phone:
       - (802)865-1140
     fax:
     email:
       - info@bigheavyworld.com
     contact-form:
-      - http://www.bigheavyworld.com/about/contact/
+      - ""http://www.bigheavyworld.com/about/contact/""
     city:
       - Burlington 
     mailing address:
@@ -551,9 +571,9 @@ radio:
     comment:
       - Promising for LUP and VTL
   
-  WOOL(FM)|WOOL:
+  "WOOL(FM)|WOOL":
     url:
-      - http://www.wool.fm/
+      - ""http://www.wool.fm/""
     facebook:
       - https://www.facebook.com/woolradio
     facebook-group:
@@ -589,7 +609,7 @@ radio:
     format:
       - Classic Rock
   
-  WQJQ|WGMT:
+  "WQJQ|WGMT":
     url: http://www.magic977.com/
     phone:
     fax:
@@ -600,9 +620,9 @@ radio:
     format:
       - Adult Contemporary
   
-  WRFK(FM)|WRFK:
+  "WRFK(FM)|WRFK":
     url:
-      - http://www.frankvermont.com/
+      - ""http://www.frankvermont.com/""
     phone:
     fax:
     city:
@@ -612,11 +632,11 @@ radio:
     format:
       - Classic Hits
   
-  WRMC-FM:
+  "WRMC-FM":
     address:
       - WRMC 91.1 FM, Middlebury College, Middlebury, VT 05753
     url:
-      - http://wrmc.middlebury.edu/
+      - ""http://wrmc.middlebury.edu/""
     phone:
       - 802-443-6323
     email:
@@ -631,7 +651,7 @@ radio:
     comment:
       - college radio
   
-  WRSA(AM)|WRSA:
+  "WRSA(AM)|WRSA":
     url:
     phone:
     fax:
@@ -644,7 +664,7 @@ radio:
   
   WRUV:
     url:
-      - http://wruv.org/
+      - ""http://wruv.org/""
     phone:
       - 802.656.4399
     email:
@@ -672,7 +692,7 @@ radio:
   
   WSNO:
     url:
-      - "http://www.wsnoradio.com/"
+      - ""http://www.wsnoradio.com/""
     phone:
     fax:
     city:
@@ -686,7 +706,7 @@ radio:
   
   WSTJ:
     url:
-      - "http://www.wstj1340.com/"
+      - ""http://www.wstj1340.com/""
     phone:
     fax:
     city:
@@ -700,7 +720,7 @@ radio:
   
   WSYB:
     url:
-      - "http://www.wsyb1380am.com/"
+      - ""http://www.wsyb1380am.com/""
     phone:
     fax:
     city:
@@ -714,7 +734,7 @@ radio:
   
   WTHK:
     url:
-      - "http://www.kixx.com/"
+      - ""http://www.kixx.com/""
     phone:
     fax:
     city:
@@ -726,7 +746,7 @@ radio:
   
   WTNN:
     url:
-      - "http://www.eaglecountry975.com/"
+      - ""http://www.eaglecountry975.com/""
     phone:
     fax:
     city:
@@ -736,9 +756,9 @@ radio:
     format:
       - Country
   
-  WTSA(AM)|WTSA|WTSA(FM):
+  "WTSA(AM)|WTSA|WTSA(FM)":
     url:
-      - "http://www.wtsa.net/"
+      - ""http://www.wtsa.net/""
     phone:
     fax:
     city:
@@ -748,11 +768,11 @@ radio:
     format:
       - Sports
   
-  WVEW-LP:
+  "WVEW-LP":
     url:
-      - "http://wvew.org/"
+      - ""http://wvew.org/""
     "contact-form":
-      - "http://wvew.org/contact/"
+      - ""http://wvew.org/contact/""
     phone:
       - 802-246-6107
     "on air phone":
@@ -777,7 +797,7 @@ radio:
   
   WVMT:
     url:
-      - "http://www.newstalk620wvmt.com/"
+      - ""http://www.newstalk620wvmt.com/""
     phone:
     fax:
     city:
@@ -804,7 +824,7 @@ radio:
   
   WVTC:
     url:
-      - "http://wvtc.net/"
+      - ""http://wvtc.net/""
     "studio phone":
       phone:
         - (802) 728-1515
@@ -862,6 +882,11 @@ radio:
   
   WWLR:
     url:
+      - ""http://lyndonstate.edu/offices-services/wwlr-radio-station/""
+    facebook:
+      - ""http://facebook.com/lyndonstate""
+    twitter:
+      - "@kinghornetlsc"
     phone:
     fax:
     city:
@@ -870,9 +895,13 @@ radio:
       - Lyndon State College|Board of Trustees, Vermont State Colleges 
     format:
       - Variety
+    comment:
+      - College Radio Station
+      - possible for LUP, maybe for VTL
   
   WWMP:
     url:
+      - ""http://www.mp103.com/""
     phone:
     fax:
     city:
@@ -893,19 +922,43 @@ radio:
     format:
       - Classic Hits
   
-  WWPV-FM:
+  "WWPV-FM":
     url:
+      - ""http://www.wwpv.org/""
     phone:
     fax:
+    social:
+      twitter:
+        - @wwpv887
+      facebook:
+        - ""http://www.facebook.com/wwpv887""
+    email:
+      - wwpv@mail.smcvt.edu
+    "Station Manager":
+      "Liam Connors":
+        - lconnors@mail.smcvt.edu
+    "Program Director":
+      "Diana Marchessault":
+        - dmarchessaul@mail.smcvt.edu	 
+    "Technology Director":
+      "Derek Piette":
+        - dpiette@mail.smcvt.edu	 
+    "PSA & News Director":
+      "Dominic Wood":
+        - dwood@mail.smcvt.edu
     city:
       - Colchester 
     owner:
-      - Saint Michael's College 
+      - "Saint Michael\'s College" 
     format:
       - Variety
+    comment:
+      - College Radio
+      - Possible for LUP, VTL
   
-  WXLF:
+  "WXLF|WZLF":
     url:
+      - ""http://www.953thewolf.com/""
     phone:
     fax:
     city:
@@ -917,17 +970,66 @@ radio:
   
   WXLQ:
     url:
+      - ""http://www.northcountrypublicradio.org/""
     phone:
+      - 315-229-5356
+      - 877-388-6277
     fax:
+      - 315-229-5373
+    email:
+      - radio@ncpr.org
+    address:
+      - North Country Public Radio
+        St. Lawrence University
+        Canton, NY 13617
+    "Street Address":
+      address:
+        - EJ Noble Medical Bldg, Rm 201
+          80 E. Main St., Canton, NY
+    "Adirondack News Bureau":
+      phone:
+        - 518-891-7774
+      fax:
+        - 315-229-5373
+      email:
+        - brian@ncpr.org
+    "Reporter/Producer": 
+      "Nora Flaherty": 
+        email:
+          - nora@ncpr.org
+      "Sarah Harris": 
+        email:
+          - sarah@ncpr.org
+      "Natasha Haverty": 
+        email:
+          - natasha@ncpr.org
+      "Zach Hirsch": 
+        email:
+          - zhirsch@ncpr.org
+      "David Sommerstein":
+        email:
+          david@ncpr.org
+    "News Director":
+      "Martha Foley": 
+        email:
+          - martha@ncpr.org
+    "Adirondack News Bureau Chief" 
+      "Brian Mann": 
+        email:
+          - brian@ncpr.org
     city:
       - Bristol 
     owner:
       - St. Lawrence University/North Country Public Radio|NCPR 
     format:
-      - 
+      - Public radio (news/talk, classical music, AAA)
+    comment:
+      - college radio
+      - promising for LUP and VTL
   
   WXXX:
     url:
+      - ""http://www.95triplex.com/""
     phone:
     fax:
     city:
@@ -937,30 +1039,31 @@ radio:
     format:
       - Pop Contemporary Hit Radio
   
-  WYTC-LP:
+  WYTC_LP:
     url:
+      - ""http://www.gmtcc.info/the_limit.html""
+    email:
+      - cwatson@gmtcc.net
+    social:
+      facebook:
+        - "https://www.facebook.com/GMTCCVT"
+      twitter:
+        - @GMTCCVT
     phone:
     fax:
     city:
       - Hyde Park 
     owner:
-      - Union High School District #18 
+      - Union High School District \#18 
     format:
-      - 
-  
-  WZLF:
-    url:
-    phone:
-    fax:
-    city:
-      - Bellows Falls 
-    owner:
-      - WBIN Media Co., Inc. 
-    format:
-      - Country
+      - Variety
+    comment:
+      - High School/College radio station
+      - Possible for LUP/VTL
   
   WZRT:
     url:
+      - ""http://www.z971.com/""
     phone:
     fax:
     city:

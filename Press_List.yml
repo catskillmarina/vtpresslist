@@ -25,7 +25,7 @@ Newspapers:
      - 802-525-3531
     address:
      - P.O. Box 660., Barton VT 05822
-    managing editor:
+    "managing editor":
       "Bethany M. Dunbar":
         email:
          - bethany@bartonchronicle.com
@@ -74,7 +74,6 @@ Newspapers:
      - "http://facebook.com/BrattleboroReformer"
     twitter:
      - @BrattReformer
-
     "Executive Editor":
       "Tom D'Errico":
         email: 
@@ -303,7 +302,7 @@ Newspapers:
        P.O. Box 119
        Waitsfield, VT 05673
     publisher:
-      Pat Clark:
+      "Pat Clark":
         phone:
          - 802-496-3928
         fax:
@@ -311,7 +310,7 @@ Newspapers:
         email:
          - pat@valleyreporter.com
     editor:
-      Lisa Loomis:
+      "Lisa Loomis":
         phone: 
          - 802-496-3928
         fax:
@@ -545,7 +544,7 @@ Newspapers:
      "press releases":
       - news@otherpapersbvt.com
  
-  "Vermont Daily New"s:
+  "Vermont Daily News":
     url:
       - "http://www.vermontdailynews.com/"
 
