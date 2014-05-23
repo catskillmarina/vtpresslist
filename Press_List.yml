@@ -4,9 +4,9 @@
 
 Newspapers:
 
-   Addison Independent:
+   "Addison Independent":
     url:
-      - http://www.addisonindependent.com/
+      - "http://www.addisonindependent.com/"
     email:
       - news@addisonindependent.com
     phone:
@@ -14,78 +14,79 @@ Newspapers:
     fax:
      - 802-388-3100
     address:
-      - 58 Maple Street, Middlebury, VT 05753
+      - 58 Maple Street
+        Middlebury, VT 05753
      
-   
-  
-  Barton Chronicle:
+  "Barton Chronicle":
     url:
-      - http://www.bartonchronicle.com/
+      - "http://www.bartonchronicle.com/"
     email:
     phone:
      - 802-525-3531
     address:
      - P.O. Box 660., Barton VT 05822
     managing editor:
-      Bethany M. Dunbar:
+      "Bethany M. Dunbar":
         email:
          - bethany@bartonchronicle.com
-    news editor:
-      Tena Starr:
+    "news editor":
+      "Tena Starr":
         email:
          -   tena@bartonchronicle.com
-    assistant editor:
-      Natalie Hormilla:
+    "assistant editor":
+      "Natalie Hormilla":
         email:
          - news@bartonchronicle.com
-    Issues Editor:
-     Paul Lefebvre:
-       email:
+    "Issues Editor":
+      "Paul Lefebvre":
+        email:
          - paul@bartonchronicle.com
      
-  Bennington Banner:
+  "Bennington Banner":
     url:
-      - http://www.benningtonbanner.com/
+      - "http://www.benningtonbanner.com/"
     address:
-     - 425 Main Street, Bennington, VT 05201
+     - 425 Main Street
+       Bennington, VT 05201
     Editor:
-      Michelle Karas:
+      "Michelle Karas":
          phone:
-           - (802) 447-7567 ext. 110
+           - 802-447-7567 ext. 110
          twitter: 
           - @bannereditor
-    News Desk Editor:
-      Stephanie Ryan:
+    "News Desk Editor":
+      "Stephanie Ryan":
         phone:
-         - (802) 447-7567 ext. 114
+         - 802-447-7567 ext. 114
 
   
-  Brattleboro Reformer:
+  "Brattleboro Reformer":
     url:
-      - http://www.reformer.com/
+      - "http://www.reformer.com/"
     email:
       - news@reformer.com
     address:
-     -  62 Black Mountain Road, Brattleboro, VT 05301-9242
+     -  62 Black Mountain Road
+        Brattleboro, VT 05301-9242
     phone:
      - 802-254-2311
     facebook:
-     - /BrattleboroReformer
+     - "http://facebook.com/BrattleboroReformer"
     twitter:
      - @BrattReformer
 
-    Executive Editor:
-      Tom D'Errico:
+    "Executive Editor":
+      "Tom D'Errico":
         email: 
          - tderrico@reformer.com
-    Senior Reporter:
-      Howard Weiss-Tisman:
+    "Senior Reporter":
+      "Howard Weiss-Tisman":
         email:
          - hwtisman@reformer.com
   
-  Burlington Free Press:
+  "Burlington Free Press":
     url:
-      - http://www.burlingtonfreepress.com/
+      - "http://www.burlingtonfreepress.com/"
     email:
       - thallenbeck@burlingtonfreepress.com
       - letters@burlingtonfreepress.com
@@ -96,18 +97,18 @@ Newspapers:
     fax:
      - 802-660-1802
 
-  Caledonian Record:
+  "Caledonian Record":
     url:
-      - http://www.caledonian-record.com/
+      - "http://www.caledonian-record.com/"
     phone:
      - 802-748-8121
     fax:
      - 802-748-1613
     address:
 
-  The County Courier:
+  "The County Courier":
     url:
-     - http://countycourieronline.com
+     - "http://countycourieronline.com"
     email:
      - couriereditor@gmail.com
     phone:
@@ -115,15 +116,16 @@ Newspapers:
     fax:
      - 802-933-4907
     address:
-     - P.O. Box 398, Enosburg Falls, VT 05450
-    Press Releases:
+     - P.O. Box 398
+       Enosburg Falls, VT 05450
+    "Press Releases":
       email:
         - countycourier@gmail.com 
      
   
-  Deerfield Valley News:
+  "Deerfield Valley News":
     url:
-      - http://www.dvalnews.com/
+      - "http://www.dvalnews.com/"
     phone:
      - 802-464-3388
     fax:
@@ -131,92 +133,100 @@ Newspapers:
     address:
      - P.O. Box 310, Route 100, West Dover, VT 05356
     publisher: 	
-      Randy Capitani:
+      "Randy Capitani":
         email:
          - RandyC@vermontmedia.com
     editor: 	
-      Mike Eldred:
+      "Mike Eldred":
         email:
          - MikeE@vermontmedia.com
-    staff reporter: 	
+    "staff reporter": 	
       Jack Deming:
         email:
          - JackD@vermontmedia.com
-    press releases:
+    "press releases":
       email:
        - news@vermontmedia.com
     
-  The Essex Reporter:
+  "The Essex Reporter":
     frequency: weekly
-    publish-day: Thursday
+    "publish-day": Thursday
     url:
-      - http://www.essexreporter.com/
+      - "http://www.essexreporter.com/"
     address:
-      - The Essex Reporter, 42 Severance Green, Unit 108, Colchester, VT 05446
+      - The Essex Reporter
+        42 Severance Green
+        Unit 108
+        Colchester, VT 05446
     editor:
-      Elsie Lynn:
+      "Elsie Lynn":
         email: 
           - news@essexreporter.com
         phone:
-          - (802) 878-5282 Ext. 202
-     Reporter/ Editorial Page Editor:
-       Jason Starr:
+          - 802-878-5282 Ext. 202
+    "Reporter/ Editorial Page Editor":
+      "Jason Starr":
          email:
            - jason@essexreporter.com
          phone: 
-           - (802) 878-5282 Ext.205
+           - 802-878-5282 Ext.205
   
-  Hardwick Gazette:
+  "Hardwick Gazette":
     email:
      - news@thehardwickgazette.com
     phone:
-     - (802) 472-6521
+     - 802-472-6521
 
-  The Herald of Randolph:
+  "The Herald of Randolph":
     url:
-     - http://www.ourherald.com/
+     - "http://www.ourherald.com/"
     email:
      - editor@OurHerald.com
     phone:
-     - (802)728-3232
+     - 802-728-3232
     fax:
-     - (802)728-9275
+     - 802-728-9275
     address:
-     - P. O. Box 309, Randolph, VT 05060
+     - P. O. Box 309
+       Randolph, VT 05060
   
-  Journal Opinion:
+  "Journal Opinion":
     url:
-      - http://www.jonews.com/
+      - "http://www.jonews.com/"
     email:
-      Owner/Publisher:
+      "Owner/Publisher":
         - publisher@jonews.com
-      Editorial/News Room: 
+      "Editorial/News Room": 
         - editor@jonews.com
-      Advertising/Production:
+      "Advertising/Production":
         - advertising@jonews.com
     address:
-      - PO Box 378, Bradford, VT 05033
+      - PO Box 378
+        Bradford, VT 05033
     phone:
       - 802-222-5281
       - 603-747-2907
     fax:
       - 802-222-5438
 
-  The Mountain Times:
+  "The Mountain Times":
     url:
-     - http://www.mountaintimes.info
+     - "http://www.mountaintimes.info"
     phone:
      - 802 422-2399
     fax:
      - 802-422-2395
     address:
-      - PO Box 183, Killington, VT 05751
+      - PO Box 183
+        Killington, VT 05751
 
-  News and Citizen:
+  "News and Citizen":
     url:
-      - http://www.newsandcitizen.com/
+      - "http://www.newsandcitizen.com/"
     address:
-      - P.O. BOX 369, 417 Brooklyn Street Morrisville, Vermont 05661
+      - P.O. BOX 369
+        417 Brooklyn Street
+        Morrisville, Vermont 05661
     phone:
       - 802.888.2212 
       - 800.734.2114 
@@ -224,69 +234,74 @@ Newspapers:
       - 802.888.2173 
     email: 
       publisher:
-       Bradley A. Limoge:
+       "Bradley A. Limoge":
          brad@newsandcitizen.com
       editor:
-        J.B. McKinley:
+        "J.B. McKinley":
           - edit@newsandcitizen.com
       reporter:
-        Mickey Smith:
+        "Mickey Smith":
           - reporter@newsandcitizen.com
-      Sales Team:
-        Irene Nuzzo
+      "Sales Team":
+        "Irene Nuzzo"
           - irene@newsandcitizen.com
-      Office Manager:
-        Karen Walker:
-          - news@newsandcitizen.com
-      Production Staff:
+      "Production Staff":
         - graphics@newsandcitizen.com
  
-  Northfield News & Transcript:
+  "Northfield News & Transcript":
     url:
-     - http://www.thenorthfieldnews.com/
+     - "http://www.thenorthfieldnews.com/"
     facebook:
-     - http://facebook.com/northfieldnewsvermont
+     - "http://facebook.com/northfieldnewsvermont"
     email:
      - thenorthfieldnews@gmail.com
     phone:
      - 802-485-6397
     address: 
-     - 7 S. Main Street, Suite D, Northfield, Vermont 05663
+     - 7 S. Main Street
+       Suite D
+       Northfield, Vermont 05663
 
-  Springfield Reporter:
+  "Springfield Reporter":
     address:
-      - Springfield Reporter, 151 Summer St., Springfield, VT 05156-3505
+      - Springfield Reporter
+        151 Summer St.
+        Springfield, VT 05156-3505
     phone:
       - 802-885-2246
     publisher:
-      Rodney W. Arnold:
+      "Rodney W. Arnold":
         email:
           - reporter@vermontel.net 
-    vermont county:
+    "vermont county":
       - Windsor
   
-  The Commons Online:
+  "The Commons Online":
     url:
-      - http://www.commonsnews.org
+      - "http://www.commonsnews.org"
     email:
       - news@commonsnews.org
     email:
       - info@commonsnews.org
     address:
-      - Vermont Independent Media, 139 Main St., #604, Brattleboro, VT 05301
+      - "Vermont Independent Media
+        139 Main St., #604, 
+        Brattleboro, VT 05301"
     phone:
       - 802-246-6397
     fax:
   
-  The Valley Reporter:
+  "The Valley Reporter":
     url:
-      - http://www.valleyreporter.com/
+      - "http://www.valleyreporter.com/"
     email:
      - news@valleyreporter.com
     phone:
      - 802-496-3928
     address:
-     - The Valley Reporter, P.O. Box 119, Waitsfield, VT 05673
+     - The Valley Reporter
+       P.O. Box 119
+       Waitsfield, VT 05673
     publisher:
       Pat Clark:
         phone:
@@ -304,29 +319,31 @@ Newspapers:
         email:
          - lisa@valleyreporter.com
 
-  The World: 
+  "The World": 
     url:
-      - http://www.vt-world.com/
+      - "http://www.vt-world.com/"
     phone:
      - 802-479-2582
     address:
-     - The World, 403 US Route 302, Barre, VT 05641
+     - The World
+       403 US Route 302
+       Barre, VT 05641
 
-  Times Argus:
+  "Times Argus":
     url:
-      - http://www.timesargus.com/
+      - "http://www.timesargus.com/"
     email:
       newsroom:
-        montpelier reporter:
-          Amy Ash Nixon:
+        "montpelier reporter":
+          "Amy Ash Nixon":
             email:
               - amy.nixon@timesargus.com
         reporter:
-          Eric Blaisdell:
+          "Eric Blaisdell":
             email:
               - eric.blaisdell@timesargus.com
-        Vermont Press Bureau Chief:
-          Neal P. Goswami:
+        "Vermont Press Bureau Chief":
+          "Neal P. Goswami":
             email:
               - neal.goswami@timesargus.com
     phone:
@@ -335,184 +352,204 @@ Newspapers:
       - 802-479-4096
     address:
       mail:
-        - P.O. Box 707, Barre, VT 05641
+        - P.O. Box 707
+          Barre, VT 05641
       office:
-        - 47 N. Main Street, Barre, VT 05641
+        - 47 N. Main Street
+          Barre, VT 05641
   
-  Valley News:
+  "Valley News":
     url:
-      - http://www.vnews.com/
+      - "http://www.vnews.com/"
     address:
-      - News Desk, Valley News, P.O. Box 877 White River Junction, VT 05001 
+      - News Desk
+        Valley News
+        P.O. Box 877
+        White River Junction, VT 05001 
     phone:
       - 603-298-8711
       - 800-874-2226
       urgent:
-        news editor:
-          John Gregg:
+        "news editor":
+          "John Gregg":
             - 603-727-3217
     email:
       - newseditor@vnews.com
     fax:
       - 603-298-0212
   
-  Vermont Second Republic:
+  "Vermont Second Republic":
     email:
       - rob.williams@madriver.com
       - publisher@2VR.org
       - editor@2VR.org
     email:
     address:
-      - PO Box 1121, Waitsfield, Republic of Vermont 05673
+      - PO Box 1121
+        Waitsfield
+        Republic of Vermont 05673
     phone:
       - 802.279.3364
     comment:
-      - Formerly Vermont Commons: Voices of Independence
+      - Formerly Vermont Commons - Voices of Independence
     fax:
   
-  Vermont 7 Days:
-    Mailing Address:
+  "Vermont 7 Days":
+    "Mailing Address":
       address:
-        - Seven Days, PO Box 1164, Burlington, VT 05402-1164
-    Physical Address:
+        - Seven Days
+          PO Box 1164
+          Burlington, VT 05402-1164
+    "Physical Address":
       address:
-        - 255 So. Champlain St, Ste. 5, Burlington, VT 0540
+        - 255 So. Champlain St
+          Ste. 5
+          Burlington, VT 0540
     publisher:
-      Paula Routly:
+      "Paula Routly":
         - paula@sevendaysvt.com
     politics:
-      Paul Heintz — Fair Game - Vermont politics:
+      "Paul Heintz — Fair Game - Vermont politics":
         - paul@sevendaysvt.com
-      Judith Levine — Poli Psy - politics:
+      "Judith Levine — Poli Psy - politics":
         - levine@sevendaysvt.com
     local:
-      Matthew Roy:
+      "Matthew Roy":
         - matthew@sevendaysvt.com
-    main phone:
+    "main phone":
       phone:
         - 802-864-5684
     direct dial:
       phone:
-        802-865-1020 + ext #
+        802-865-1020 + ext
     fax:
   
-  Newport Daily Express:
+  "Newport Daily Express":
     url:
-      - http://www.newportvermontdailyexpress.com/
+      - "http://www.newportvermontdailyexpress.com/"
     address:
-      - 178 Hill Street, Newport, Vermont 05855  United States
+      - 178 Hill Street
+        Newport, Vermont 05855
+        United States
     email:
       -  kwells@newportvermontdailyexpress.com
     phone:
-      - (802) 334-6568 
+      - 802-334-6568 
     fax:
-      - (802) 334-6891
+      - 802-334-6891
     publisher:
-      Kenneth Lance Wells:
+      "Kenneth Lance Wells":
         email:
           - kwells@newportvermontdailyexpress.com
-    staff reporter:
-      Chris Roy:
+    "staff reporter":
+      "Chris Roy":
         email:
           - wreporter@newportvermontdailyexpress.com
-      Laura Carpenter:	
+      "Laura Carpenter":	
         email:
           - ereporter@newportvermontdailyexpress.com
-    lifestyle editor:
-      Tracie Ashman:
+    "lifestyle editor":
+      "Tracie Ashman":
         email:
           - lifestyleeditor@newportvermontdailyexpress.com
   
-  Newport Dispatch:
+  "Newport Dispatch":
     address:
-      - Newport Dispatch, PO Box 1146, Derby Line, VT 05830
+      - Newport Dispatch
+        PO Box 1146
+        Derby Line, VT 05830
     url:
-      - http://newportdispatch.com
+      - "http://newportdispatch.com"
     email:
       - editor@newportdispatch.com
     phone:
       - 219-730-6606
     fax:
 
-  The Rutland Herald:
+  "The Rutland Herald":
     url:
-      - http://www.rutlandherald.com/
+      - "http://www.rutlandherald.com/"
     email:
-      Editorial Page & Letters to the Editor:
+      "Editorial Page & Letters to the Editor":
         - david.moats@rutlandherald.com
         - letters@rutlandherald.com
     phone:
       - 800-498-4296
       - 800-776-5512
     address:
-      - P.O. Box 66827 Wales Street, Rutland, VT 05702-0668
+      - P.O. Box 66827
+        Wales Street
+        Rutland, VT 05702-0668
     fax:
 
-  Saint Albans Messenger:
+  "Saint Albans Messenger":
     url:
-      - http://www-messenger.together.com/
+      - "http://www-messenger.together.com/"
     email:
       - emerson@samessenger.com
     phone:
     fax:
-    contact-form:
+    "contact-form":
   
-  Stowe Reporter:
+  "Stowe Reporter":
     url:
-      - http://www.stowetoday.com/stowe_reporter/
+      - "http://www.stowetoday.com/stowe_reporter/"
     email:
       - web@stowereporter.com
-    managing editor:
-      Matt Kanner:
+    "managing editor":
+      "Matt Kanner":
         phone:
-          - (802) 253-2101 Ext. 11
+          - 802-253-2101 Ext. 11
         email:
           - news@stowereporter.com
           - mkanner@stowereporter.com
         reporter:
-            Lisa McCormack:
+            "Lisa McCormack":
               phone:
-                - (802) 253-2101 Ext. 12
+                - "802-253-2101 Ext. 12"
               email:
                 - lisa@stowereporter.com
-            Tommy Gardner:
+            "Tommy Gardner":
               phone:
-                - (802) 253-2101 Ext. 27
+                - "802-253-2101 Ext. 27"
               email:
                 - tommy@stowereporter.com
             Miranda Orso:
               phone:
-                - (802) 253-2101 Ext. 22
+                - 802-253-2101 Ext. 22
               email:
                 - miranda@waterburyrecord.com
     phone:
       - 802-253-2101
     address:
-      - PO Box 489 Stowe, VT 05672
+      - PO Box 489
+        Stowe, VT
+        05672
   
-  The Other Paper:
+  "The Other Paper":
      url:
-     - http://www.otherpapersbvt.com
+     - "http://www.otherpapersbvt.com"
      phone:
      - 802-864-6670
      fax:
      - 802-864-3379
      address:
-     - 1340 Williston Road, South Burlington, VT 05403
+     - 1340 Williston Road
+       South Burlington, VT 05403
      publisher:
-       Judy Kearns:
+       "Judy Kearns":
          phone:
           - 802-864-6670
          email:
           - judy@otherpapersbvt.com
-     press releases:
+     "press releases":
       - news@otherpapersbvt.com
  
-  Vermont Daily News:
+  "Vermont Daily New"s:
     url:
-      - http://www.vermontdailynews.com/
+      - "http://www.vermontdailynews.com/"
 
-  Vermont Standard:
+  "Vermont Standard":
     url:
     email:
       - letters@thevermontstandard.com
@@ -523,15 +560,17 @@ Newspapers:
     press releases:
      – editor@thevermontstandard.com
     managing editor:
-      Tony Marquis:
+      "Tony Marquis":
         email:
          - tmarquis@thevermontstandard.com
     reporter:
-      Katy Savage:
+      "Katy Savage":
         email:
          - ksavage@thevermontstandard.com
 
-  VTDigger.com:
+  "VTDigger":
+    url:
+      - "http://vtdigger.com"
     email:
       - vtdigger@gmail.com
     email:
