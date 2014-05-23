@@ -10,12 +10,14 @@ WBTN(AM)|WBTN:
     -  Variety
   frequency: 1370 kHz
 
-WBTN-FM:
-  url: http://www.vpr.net/
+WOXM|WNCH|WRVT|WVBA|WVNK|WVPA|WVPR|WVPS|WVTI|WVTQ|WVXM|WVXR|WBTN-FM:
+  url:
+    - http://www.vpr.net/
   phone:
   fax:
   city:
     -  Bennington 
+    -  Many Many
   owner:
     -  Vermont Public Radio 
   format:
@@ -184,7 +186,7 @@ WEZF:
   format:
     -  Adult Contemporary
 
-WFAD|WIFY:
+WFAD|WIFY|WRSY:
   url:
     - http://www.cruisin937.com/
   phone:
@@ -251,18 +253,6 @@ WGDH|WGDR:
   affliation:
     - Pacifica
 
-WGMT:
-  url:
-    - http://www.magic977.com/
-  phone:
-  fax:
-  city:
-    -  Lyndon 
-  owner:
-    -  Vermont Broadcast Associates, Inc. 
-  format:
-    -  Adult Contemporary
-
 WIKE:
   url:
   phone:
@@ -286,6 +276,17 @@ WIUV:
   fax:
   city:
     -  Castleton 
+  General Manager:
+    Jaren Carpenter:
+      - jaren.carpenter@castleton.edu
+  Program Director:
+    Matt Trombley:
+      email:
+        - mat02190@castleton.edu
+  Promotions Director:
+    Amanda LeCroix:
+      email:
+        - all09131@castleton.edu
   owner:
     -  Castleton State College|Board of Trustees/Vermont State Colleges 
   comment:
@@ -306,6 +307,7 @@ WIXM:
 
 WIZN:
   url:
+    - http://www.wizn.com/
   phone:
   fax:
   city:
@@ -317,6 +319,7 @@ WIZN:
 
 WJEN:
   url:
+    - http://www.catcountryvermont.com/
   phone:
   fax:
   city:
@@ -328,6 +331,7 @@ WJEN:
 
 WJJR:
   url:
+    - http://www.wjjr.net/
   phone:
   fax:
   city:
@@ -339,6 +343,7 @@ WJJR:
 
 WJOY:
   url:
+    - http://www.wjoy.com/
   phone:
   fax:
   city:
@@ -350,6 +355,7 @@ WJOY:
 
 WJSC-FM:
   url:
+    - http://www.jsc.edu/StudentLife/WJSCFM/default.aspx
   phone:
   fax:
   city:
@@ -361,12 +367,13 @@ WJSC-FM:
 
 WJSY-LP:
   url:
+    - http://www.wjsy.org 
   phone:
   fax:
   city:
     -  Newport 
   owner:
-    -  Voice in the Kingdom Radio, Inc.<ref>[http://www.wjsy.org Voice in the Kingdom Radio, Inc]</ref> 
+    -  Voice in the Kingdom Radio, Inc.
   format:
     -  
 
@@ -448,6 +455,9 @@ WMOO:
 
 WMRW-LP:
   url:
+    - http://www.wmrw.org/
+  contact-form:
+    - http://www.wmrw.org/index.php/contact-us
   phone:
   fax:
   city:
@@ -455,18 +465,9 @@ WMRW-LP:
   owner:
     -  Roostwork Inc. 
   format:
-    - 
-
-WMTZ-LP:
-  url:
-  phone:
-  fax:
-  city:
-    -  Rutland 
-  owner:
-    -  Green Mountain Adventist Media, Inc. 
-  format:
-    - 
+    -  LP FM
+  comment:
+    -  Community Run by Volunteers
 
 WMVY(FM)|WMVY:
   url:
@@ -478,17 +479,6 @@ WMVY(FM)|WMVY:
     -  Electromagnetic Company, LLC 
   format:
     -  Silent
-
-WNCH:
-  url:
-  phone:
-  fax:
-  city:
-    -  Norwich 
-  owner:
-    -  Vermont Public Radio 
-  format:
-    -  Classical
 
 WNCS:
   url:
@@ -503,6 +493,7 @@ WNCS:
 
 WNUB-FM:
   url:
+    - http://libarts.norwich.edu/english-communications/publish-broadcast-perform/wnub/
   phone:
   fax:
   city:
@@ -510,10 +501,14 @@ WNUB-FM:
   owner:
     - The Trustees of the Norwich University 
   format:
-    -  Alternative
+    - Alternative
+  comment:
+    - College Radio Station
+    - Criminal Justice and Defense are specialties here.
 
 WOKO:
   url:
+    - http://www.woko.com/
   phone:
   fax:
   city:
@@ -525,28 +520,59 @@ WOKO:
 
 WOMM-LP:
   url:
+    - http://www.theradiator.org/
   phone:
+    - (802)865-1140
   fax:
+  email:
+    - info@bigheavyworld.com
+  contact-form:
+    - http://www.bigheavyworld.com/about/contact/
   city:
     -  Burlington 
+  mailing address:
+    address:
+      - Big Heavy World, P.O. Box 428, Burlington, VT 05402-0428
+  physical address:
+    address:
+      - Big Heavy World, 215 College Street, Suite 4E, Burlington, VT 05401-8306
   owner:
-    -  Peace and Justice Center 
+    - Peace and Justice Center 
   format:
-    -  Community Radio
+    - Community Radio
+    - Low Power FM
+  comment:
+    - Promising for LUP and VTL
 
 WOOL(FM)|WOOL:
   url:
+    - http://www.wool.fm/
+  facebook:
+    - https://www.facebook.com/woolradio
+  facebook-group:
+    - https://www.facebook.com/group.php?gid=42789476202&ref=ts
+  address:
+    - WOOL.fm, P.O. Box 110, 33 Bridge St, Bellows Falls VT 05101
   phone:
+    - 802.460.9665
+  email:
+    - feedback@blacksheepradio.org
   fax:
   city:
-    -  Bellows Falls 
+    - Bellows Falls 
   owner:
-    -  Great Falls Community Broadcasting Company. 
+    - Great Falls Community Broadcasting Company. 
   format:
-    -  Variety, Community Radio
+    - Variety
+    - Community Radio
+  affliate:
+    - Pacifica
+  comment:
+    - noncommercial educational license
+    - promising for LUP and VTL
 
 WOTX:
-  url:
+  url: http://www.outlawfm.com/
   phone:
   fax:
   city:
@@ -556,19 +582,8 @@ WOTX:
   format:
     -  Classic Rock
 
-WOXM:
-  url:
-  phone:
-  fax:
-  city:
-    -  Middlebury 
-  owner:
-    -  Vermont Public Radio 
-  format:
-    -  Classical
-
-WQJQ:
-  url:
+WQJQ|WGMT:
+  url: http://www.magic977.com/
   phone:
   fax:
   city:
@@ -578,19 +593,9 @@ WQJQ:
   format:
     -  Adult Contemporary
 
-WRAN-LP:
-  url:
-  phone:
-  fax:
-  city:
-    -  Randolph 
-  owner:
-    -  Vermont Agency of Transportation 
-  format:
-    - 
-
 WRFK(FM)|WRFK:
   url:
+    - http://www.frankvermont.com/
   phone:
   fax:
   city:
@@ -601,8 +606,14 @@ WRFK(FM)|WRFK:
     -  Classic Hits
 
 WRMC-FM:
+  address:
+    - WRMC 91.1 FM, Middlebury College, Middlebury, VT 05753
   url:
+    - http://wrmc.middlebury.edu/
   phone:
+    - 802-443-6323
+  email:
+    - wrmc911@gmail.com
   fax:
   city:
     -  Middlebury 
@@ -610,6 +621,8 @@ WRMC-FM:
     -  The President and Fellows of Middlebury College 
   format:
     -  Variety
+  comment:
+    - college radio
 
 WRSA(AM)|WRSA:
   url:
@@ -622,20 +635,15 @@ WRSA(AM)|WRSA:
   format:
     -  Oldies
 
-WRSY:
-  url:
-  phone:
-  fax:
-  city:
-    -  Marlboro 
-  owner:
-    -  Saga Communications 
-  format:
-    -  Album Adult Alternative
-
 WRUV:
   url:
+    - http://wruv.org/
   phone:
+    - 802.656.4399
+  email:
+    - wruv@wruv.org
+  chat:
+    - AIM\:DJWRUV
   fax:
   city:
     -  Burlington 
@@ -643,17 +651,6 @@ WRUV:
     -  University of Vermont 
   format:
     -  Alternative Rock
-
-WRVT:
-  url:
-  phone:
-  fax:
-  city:
-    -  Rutland 
-  owner:
-    -  Vermont Public Radio 
-  format:
-    -  News Talk Information
 
 WSKI:
   url:
@@ -743,17 +740,6 @@ WTSA-FM:
   format:
     -  Adult Contemporary
 
-WVBA:
-  url:
-  phone:
-  fax:
-  city:
-    -  Brattleboro 
-  owner:
-    -  Vermont Public Radio 
-  format:
-    -  
-
 WVEW-LP:
   url:
   phone:
@@ -776,17 +762,6 @@ WVMT:
   format:
     -  News Talk Information
 
-WVNK:
-  url:
-  phone:
-  fax:
-  city:
-    -  Manchester 
-  owner:
-    -  Vermont Public Radio 
-  format:
-    -  
-
 WVNR:
   url:
   phone:
@@ -798,38 +773,7 @@ WVNR:
   format:
     -  Adult Contemporary
 
-WVPA:
-  url:
-  phone:
-  fax:
-  city:
-    -  St. Johnsbury 
-  owner:
-    -  Vermont Public Radio 
-  format:
-    -  News Talk Information
 
-WVPR:
-  url:
-  phone:
-  fax:
-  city:
-    -  Windsor 
-  owner:
-    -  Vermont Public Radio
-  format:
-    -  News Talk Information
-
-WVPS:
-  url:
-  phone:
-  fax:
-  city:
-    -  Burlington 
-  owner:
-    -  Vermont Public Radio 
-  format:
-    -  News Talk Information
 
 WVTC:
   url:
@@ -841,50 +785,6 @@ WVTC:
     -  Vermont Technical College|Vermont State Colleges 
   format:
     -  Variety
-
-WVTI:
-  url:
-  phone:
-  fax:
-  city:
-    -  Brighton 
-  owner:
-    -  Vermont Public Radio 
-  format:
-    -  Classical
-
-WVTQ:
-  url:
-  phone:
-  fax:
-  city:
-    -  Sunderland 
-  owner:
-    -  Vermont Public Radio 
-  format:
-    -  Classical
-
-WVXM:
-  url:
-  phone:
-  fax:
-  city:
-    -  Middlebury 
-  owner:
-    -  Vermont Public Radio 
-  format:
-    -  Silent
-
-WVXR:
-  url:
-  phone:
-  fax:
-  city:
-    -  Randolph 
-  owner:
-    -  Vermont Public Radio 
-  format:
-    -  Classical
 
 WWFY:
   url:

@@ -15,7 +15,24 @@ Newspapers:
      - 802-388-3100
     address:
       - 58 Maple Street, Middlebury, VT 05753
-     
+
+    Managing Editor:
+      Bethany M. Dunbar:
+        email:
+         - bethany@bartonchronicle.com
+      
+      News Editor:
+       Tena Starr:
+         email:
+           - tena@bartonchronicle.com
+    Assistant Editor:
+     Natalie Hormilla:
+       email:
+         - news@bartonchronicle.com
+    Issues Editor:
+     Paul Lefebvre:
+       email:
+         - paul@bartonchronicle.com
    
   
   Barton Chronicle:
@@ -38,10 +55,6 @@ Newspapers:
       Natalie Hormilla:
         email:
          - news@bartonchronicle.com
-    Issues Editor:
-     Paul Lefebvre:
-       email:
-         - paul@bartonchronicle.com
      
   Bennington Banner:
     url:
@@ -104,6 +117,7 @@ Newspapers:
     fax:
      - 802-748-1613
     address:
+     - 
 
   The County Courier:
     url:
@@ -116,9 +130,9 @@ Newspapers:
      - 802-933-4907
     address:
      - P.O. Box 398, Enosburg Falls, VT 05450
+    
     Press Releases:
-      email:
-        - countycourier@gmail.com 
+     - countycourier@gmail.com 
      
   
   Deerfield Valley News:
@@ -128,7 +142,7 @@ Newspapers:
      - 802-464-3388
     fax:
      - 802-464-7255
-    address:
+     address:
      - P.O. Box 310, Route 100, West Dover, VT 05356
     publisher: 	
       Randy Capitani:
@@ -151,8 +165,7 @@ Newspapers:
     publish-day: Thursday
     url:
       - http://www.essexreporter.com/
-    address:
-      - The Essex Reporter, 42 Severance Green, Unit 108, Colchester, VT 05446
+    address: The Essex Reporter, 42 Severance Green, Unit 108, Colchester, VT 05446
     editor:
       Elsie Lynn:
         email: 
@@ -245,7 +258,7 @@ Newspapers:
     url:
      - http://www.thenorthfieldnews.com/
     facebook:
-     - http://facebook.com/northfieldnewsvermont
+     - /northfieldnewsvermont
     email:
      - thenorthfieldnews@gmail.com
     phone:
@@ -260,8 +273,8 @@ Newspapers:
       - 802-885-2246
     publisher:
       Rodney W. Arnold:
-        email:
-          - reporter@vermontel.net 
+    email:
+      - reporter@vermontel.net 
     vermont county:
       - Windsor
   
@@ -455,7 +468,7 @@ Newspapers:
       - emerson@samessenger.com
     phone:
     fax:
-    contact-form:
+    contactform:
   
   Stowe Reporter:
     url:
@@ -490,6 +503,8 @@ Newspapers:
     address:
       - PO Box 489 Stowe, VT 05672
   
+  Sunderland News:
+
   The Other Paper:
      url:
      - http://www.otherpapersbvt.com
@@ -507,6 +522,7 @@ Newspapers:
           - judy@otherpapersbvt.com
      press releases:
       - news@otherpapersbvt.com
+ 
  
   Vermont Daily News:
     url:
